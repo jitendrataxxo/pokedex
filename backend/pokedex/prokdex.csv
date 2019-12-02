@@ -1,0 +1,955 @@
+﻿id,abilities,name,weight,ThumbnailAltText,weakness,number,height,collectibles_slug,featured,ThumbnailImage,threat_type,slug
+1,Overgrow,Bulbasaur,15.2,Bulbasaur,Fire Flying Ice Psychic,1,28,bulbasaur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png,grass poison,bulbasaur
+2,Overgrow,Ivysaur,28.7,Ivysaur,Fire Flying Ice Psychic,2,39,ivysaur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png,grass poison,ivysaur
+3,Thick Fat,Venusaur,342.8,Venusaur,Fire Psychic Flying Ice,3,94,venusaur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png,grass poison,venusaur
+4,Overgrow,Venusaur,220.5,Venusaur,Fire Flying Ice Psychic,3,79,venusaur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png,grass poison,venusaur
+5,Blaze,Charmander,18.7,Charmander,Ground Rock Water,4,24,charmander,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png,fire,charmander
+6,Blaze,Charmeleon,41.9,Charmeleon,Ground Rock Water,5,43,charmeleon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png,fire,charmeleon
+7,Drought,Charizard,221.6,Charizard,Water Rock Electric,6,67,charizard,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png,fire flying,charizard
+8,Tough Claws,Charizard,243.6,Charizard,Dragon Rock Ground,6,67,charizard,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png,fire dragon,charizard
+9,Blaze,Charizard,199.5,Charizard,Rock Electric Water,6,67,charizard,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png,fire flying,charizard
+10,Torrent,Squirtle,19.8,Squirtle,Electric Grass,7,20,squirtle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png,water,squirtle
+11,Torrent,Wartortle,49.6,Wartortle,Electric Grass,8,39,wartortle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png,water,wartortle
+12,Mega Launcher,Blastoise,222.9,Blastoise,Grass Electric,9,63,blastoise,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png,water,blastoise
+13,Torrent,Blastoise,188.5,Blastoise,Electric Grass,9,63,blastoise,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png,water,blastoise
+14,Shield Dust,Caterpie,6.4,Caterpie,Fire Flying Rock,10,12,caterpie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png,bug,caterpie
+15,Shed Skin,Metapod,21.8,Metapod,Fire Flying Rock,11,28,metapod,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png,bug,metapod
+16,Compound Eyes,Butterfree,70.5,Butterfree,Rock Electric Fire Flying Ice,12,43,butterfree,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png,bug flying,butterfree
+17,Shield Dust,Weedle,7.1,Weedle,Fire Flying Psychic Rock,13,12,weedle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png,bug poison,weedle
+18,Shed Skin,Kakuna,22,Kakuna,Fire Flying Psychic Rock,14,24,kakuna,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png,bug poison,kakuna
+19,Adaptability,Beedrill,89.3,Beedrill,Fire Flying Psychic Rock,15,55,beedrill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png,bug poison,beedrill
+20,Swarm,Beedrill,65,Beedrill,Fire Flying Psychic Rock,15,39,beedrill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png,bug poison,beedrill
+21,Keen EyeTangled Feet,Pidgey,4,Pidgey,Electric Ice Rock,16,12,pidgey,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png,normal flying,pidgey
+22,Keen EyeTangled Feet,Pidgeotto,66.1,Pidgeotto,Electric Ice Rock,17,43,pidgeotto,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png,normal flying,pidgeotto
+23,No Guard,Pidgeot,111.3,Pidgeot,Ice Electric Rock,18,87,pidgeot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png,normal flying,pidgeot
+24,Keen EyeTangled Feet,Pidgeot,87.1,Pidgeot,Electric Ice Rock,18,59,pidgeot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png,normal flying,pidgeot
+25,GluttonyHustle,Rattata,8.4,Rattata,Fairy Bug Fighting,19,12,rattata,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png,dark normal,rattata
+26,GutsRun Away,Rattata,7.7,Rattata,Fighting,19,12,rattata,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png,normal,rattata
+27,GluttonyHustle,Raticate,56.2,Raticate,Fairy Bug Fighting,20,28,raticate,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png,dark normal,raticate
+28,GutsRun Away,Raticate,40.8,Raticate,Fighting,20,28,raticate,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png,normal,raticate
+29,Keen Eye,Spearow,4.4,Spearow,Electric Ice Rock,21,12,spearow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png,normal flying,spearow
+30,Keen Eye,Fearow,83.8,Fearow,Electric Ice Rock,22,47,fearow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png,normal flying,fearow
+31,IntimidateShed Skin,Ekans,15.2,Ekans,Ground Psychic,23,79,ekans,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png,poison,ekans
+32,IntimidateShed Skin,Arbok,143.3,Arbok,Ground Psychic,24,138,arbok,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png,poison,arbok
+33,Static,Pikachu,13.2,Pikachu,Ground,25,16,pikachu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png,electric,pikachu
+34,Surge Surfer,Raichu,46.3,Raichu,Ghost Dark Bug Ground,26,28,raichu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png,electric psychic,raichu
+35,Static,Raichu,66.1,Raichu,Ground,26,31,raichu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png,electric,raichu
+36,Snow Cloak,Sandshrew,88.2,Sandshrew,Fire Fighting Ground,27,28,sandshrew,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png,ice steel,sandshrew
+37,Sand Veil,Sandshrew,26.5,Sandshrew,Grass Ice Water,27,24,sandshrew,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png,ground,sandshrew
+38,Snow Cloak,Sandslash,121.3,Sandslash,Fire Fighting Ground,28,47,sandslash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png,ice steel,sandslash
+39,Sand Veil,Sandslash,65,Sandslash,Grass Ice Water,28,39,sandslash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png,ground,sandslash
+40,Poison PointRivalry,Nidoran♀,15.4,Nidoran♀,Ground Psychic,29,16,nidoran-female,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png,poison,nidoran-female
+41,Poison PointRivalry,Nidorina,44.1,Nidorina,Ground Psychic,30,31,nidorina,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png,poison,nidorina
+42,Poison PointRivalry,Nidoqueen,132.3,Nidoqueen,Ground Ice Psychic Water,31,51,nidoqueen,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png,poison ground,nidoqueen
+43,Poison PointRivalry,Nidoran♂,19.8,Nidoran♂,Ground Psychic,32,20,nidoran-male,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png,poison,nidoran-male
+44,Poison PointRivalry,Nidorino,43,Nidorino,Ground Psychic,33,35,nidorino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png,poison,nidorino
+45,Poison PointRivalry,Nidoking,136.7,Nidoking,Ground Ice Psychic Water,34,55,nidoking,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png,poison ground,nidoking
+46,Cute CharmMagic Guard,Clefairy,16.5,Clefairy,Steel Poison,35,24,clefairy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png,fairy,clefairy
+47,Cute CharmMagic Guard,Clefable,88.2,Clefable,Steel Poison,36,51,clefable,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png,fairy,clefable
+48,Snow Cloak,Vulpix,21.8,Vulpix,Fire Steel Fighting Rock,37,24,vulpix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png,ice,vulpix
+49,Flash Fire,Vulpix,21.8,Vulpix,Ground Rock Water,37,24,vulpix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png,fire,vulpix
+50,Snow Cloak,Ninetales,43.9,Ninetales,Fire Steel Poison Rock,38,43,ninetales,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png,ice fairy,ninetales
+51,Flash Fire,Ninetales,43.9,Ninetales,Ground Rock Water,38,43,ninetales,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png,fire,ninetales
+52,CompetitiveCute Charm,Jigglypuff,12.1,Jigglypuff,Steel Poison,39,20,jigglypuff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png,normal fairy,jigglypuff
+53,CompetitiveCute Charm,Wigglytuff,26.5,Wigglytuff,Steel Poison,40,39,wigglytuff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png,normal fairy,wigglytuff
+54,Inner Focus,Zubat,16.5,Zubat,Electric Ice Psychic Rock,41,31,zubat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png,poison flying,zubat
+55,Inner Focus,Golbat,121.3,Golbat,Electric Ice Psychic Rock,42,63,golbat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png,poison flying,golbat
+56,Chlorophyll,Oddish,11.9,Oddish,Fire Flying Ice Psychic,43,20,oddish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png,grass poison,oddish
+57,Chlorophyll,Gloom,19,Gloom,Fire Flying Ice Psychic,44,31,gloom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png,grass poison,gloom
+58,Chlorophyll,Vileplume,41,Vileplume,Fire Flying Ice Psychic,45,47,vileplume,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png,grass poison,vileplume
+59,Dry SkinEffect Spore,Paras,11.9,Paras,Fire Flying Bug Ice Poison Rock,46,12,paras,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png,bug grass,paras
+60,Dry SkinEffect Spore,Parasect,65,Parasect,Fire Flying Bug Ice Poison Rock,47,39,parasect,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png,bug grass,parasect
+61,Compound EyesTinted Lens,Venonat,66.1,Venonat,Fire Flying Psychic Rock,48,39,venonat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png,bug poison,venonat
+62,Shield DustTinted Lens,Venomoth,27.6,Venomoth,Fire Flying Psychic Rock,49,59,venomoth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png,bug poison,venomoth
+63,Sand VeilTangling Hair,Diglett,2.2,Diglett,Fire Water Fighting Ground,50,8,diglett,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png,ground steel,diglett
+64,Arena TrapSand Veil,Diglett,1.8,Diglett,Grass Ice Water,50,8,diglett,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png,ground,diglett
+65,Sand VeilTangling Hair,Dugtrio,146.8,Dugtrio,Fire Water Fighting Ground,51,28,dugtrio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png,ground steel,dugtrio
+66,Arena TrapSand Veil,Dugtrio,73.4,Dugtrio,Grass Ice Water,51,28,dugtrio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png,ground,dugtrio
+67,PickupTechnician,Meowth,9.3,Meowth,Fairy Bug Fighting,52,16,meowth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png,dark,meowth
+68,PickupTechnician,Meowth,9.3,Meowth,Fighting,52,16,meowth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png,normal,meowth
+69,Fur CoatTechnician,Persian,72.8,Persian,Fairy Bug Fighting,53,43,persian,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png,dark,persian
+70,LimberTechnician,Persian,70.5,Persian,Fighting,53,39,persian,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png,normal,persian
+71,Cloud NineDamp,Psyduck,43.2,Psyduck,Electric Grass,54,31,psyduck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png,water,psyduck
+72,Cloud NineDamp,Golduck,168.9,Golduck,Electric Grass,55,67,golduck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png,water,golduck
+73,Anger PointVital Spirit,Mankey,61.7,Mankey,Flying Psychic Fairy,56,20,mankey,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png,fighting,mankey
+74,Anger PointVital Spirit,Primeape,70.5,Primeape,Flying Psychic Fairy,57,39,primeape,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png,fighting,primeape
+75,Flash FireIntimidate,Growlithe,41.9,Growlithe,Ground Rock Water,58,28,growlithe,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png,fire,growlithe
+76,Flash FireIntimidate,Arcanine,341.7,Arcanine,Ground Rock Water,59,75,arcanine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png,fire,arcanine
+77,DampWater Absorb,Poliwag,27.3,Poliwag,Electric Grass,60,24,poliwag,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png,water,poliwag
+78,DampWater Absorb,Poliwhirl,44.1,Poliwhirl,Electric Grass,61,39,poliwhirl,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png,water,poliwhirl
+79,DampWater Absorb,Poliwrath,119,Poliwrath,Electric Flying Grass Psychic Fairy,62,51,poliwrath,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png,water fighting,poliwrath
+80,Inner FocusSynchronize,Abra,43,Abra,Bug Dark Ghost,63,35,abra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png,psychic,abra
+81,Inner FocusSynchronize,Kadabra,124.6,Kadabra,Bug Dark Ghost,64,51,kadabra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png,psychic,kadabra
+82,Trace,Alakazam,105.8,Alakazam,Ghost Dark Bug,65,47,alakazam,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png,psychic,alakazam
+83,Inner FocusSynchronize,Alakazam,105.8,Alakazam,Bug Dark Ghost,65,59,alakazam,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png,psychic,alakazam
+84,GutsNo Guard,Machop,43,Machop,Flying Psychic Fairy,66,31,machop,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png,fighting,machop
+85,GutsNo Guard,Machoke,155.4,Machoke,Flying Psychic Fairy,67,59,machoke,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png,fighting,machoke
+86,GutsNo Guard,Machamp,286.6,Machamp,Flying Psychic Fairy,68,63,machamp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png,fighting,machamp
+87,Chlorophyll,Bellsprout,8.8,Bellsprout,Fire Flying Ice Psychic,69,28,bellsprout,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png,grass poison,bellsprout
+88,Chlorophyll,Weepinbell,14.1,Weepinbell,Fire Flying Ice Psychic,70,39,weepinbell,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png,grass poison,weepinbell
+89,Chlorophyll,Victreebel,34.2,Victreebel,Fire Flying Ice Psychic,71,67,victreebel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png,grass poison,victreebel
+90,Clear BodyLiquid Ooze,Tentacool,100.3,Tentacool,Electric Ground Psychic,72,35,tentacool,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png,water poison,tentacool
+91,Clear BodyLiquid Ooze,Tentacruel,121.3,Tentacruel,Electric Ground Psychic,73,63,tentacruel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png,water poison,tentacruel
+92,Magnet PullSturdy,Geodude,44.8,Geodude,Water Grass Fighting Ground,74,16,geodude,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png,rock electric,geodude
+93,Rock HeadSturdy,Geodude,44.1,Geodude,Grass Water Fighting Ground Ice Steel,74,16,geodude,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png,rock ground,geodude
+94,Magnet PullSturdy,Graveler,242.5,Graveler,Water Grass Fighting Ground,75,39,graveler,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png,rock electric,graveler
+95,Rock HeadSturdy,Graveler,231.5,Graveler,Grass Water Fighting Ground Ice Steel,75,39,graveler,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png,rock ground,graveler
+96,Magnet PullSturdy,Golem,696.7,Golem,Water Grass Fighting Ground,76,67,golem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png,rock electric,golem
+97,Rock HeadSturdy,Golem,661.4,Golem,Grass Water Fighting Ground Ice Steel,76,55,golem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png,rock ground,golem
+98,Flash FireRun Away,Ponyta,66.1,Ponyta,Ground Rock Water,77,39,ponyta,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png,fire,ponyta
+99,Flash FireRun Away,Rapidash,209.4,Rapidash,Ground Rock Water,78,67,rapidash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png,fire,rapidash
+100,ObliviousOwn Tempo,Slowpoke,79.4,Slowpoke,Bug Dark Electric Ghost Grass,79,47,slowpoke,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png,water psychic,slowpoke
+101,Shell Armor,Slowbro,264.6,Slowbro,Ghost Dark Grass Electric Bug,80,79,slowbro,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png,water psychic,slowbro
+102,ObliviousOwn Tempo,Slowbro,173.1,Slowbro,Bug Dark Electric Ghost Grass,80,63,slowbro,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png,water psychic,slowbro
+103,Magnet PullSturdy,Magnemite,13.2,Magnemite,Ground Fire Fighting,81,12,magnemite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png,electric steel,magnemite
+104,Magnet PullSturdy,Magneton,132.3,Magneton,Ground Fire Fighting,82,39,magneton,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png,electric steel,magneton
+105,Inner FocusKeen Eye,Farfetch'd,33.1,Farfetch'd,Electric Ice Rock,83,31,farfetchd,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png,normal flying,farfetchd
+106,Early BirdRun Away,Doduo,86.4,Doduo,Electric Ice Rock,84,55,doduo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png,normal flying,doduo
+107,Early BirdRun Away,Dodrio,187.8,Dodrio,Electric Ice Rock,85,71,dodrio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png,normal flying,dodrio
+108,HydrationThick Fat,Seel,198.4,Seel,Electric Grass,86,43,seel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png,water,seel
+109,HydrationThick Fat,Dewgong,264.6,Dewgong,Electric Fighting Grass Rock,87,67,dewgong,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png,water ice,dewgong
+110,GluttonyPoison Touch,Grimer,92.6,Grimer,Ground,88,28,grimer,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png,poison dark,grimer
+111,StenchSticky Hold,Grimer,66.1,Grimer,Ground Psychic,88,35,grimer,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png,poison,grimer
+112,GluttonyPoison Touch,Muk,114.6,Muk,Ground,89,39,muk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png,poison dark,muk
+113,StenchSticky Hold,Muk,66.1,Muk,Ground Psychic,89,47,muk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png,poison,muk
+114,Shell ArmorSkill Link,Shellder,8.8,Shellder,Electric Grass,90,12,shellder,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png,water,shellder
+115,Shell ArmorSkill Link,Cloyster,292.1,Cloyster,Electric Fighting Grass Rock,91,59,cloyster,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png,water ice,cloyster
+116,Levitate,Gastly,0.2,Gastly,Dark Ghost Psychic,92,51,gastly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png,ghost poison,gastly
+117,Levitate,Haunter,0.2,Haunter,Dark Ghost Psychic,93,63,haunter,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png,ghost poison,haunter
+118,Shadow Tag,Gengar,89.3,Gengar,Ghost Dark Psychic Ground,94,55,gengar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png,ghost poison,gengar
+119,Levitate,Gengar,89.3,Gengar,Dark Ghost Psychic,94,59,gengar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png,ghost poison,gengar
+120,Rock HeadSturdy,Onix,463,Onix,Grass Water Fighting Ground Ice Steel,95,346,onix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png,rock ground,onix
+121,ForewarnInsomnia,Drowzee,71.4,Drowzee,Bug Dark Ghost,96,39,drowzee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png,psychic,drowzee
+122,ForewarnInsomnia,Hypno,166.7,Hypno,Bug Dark Ghost,97,63,hypno,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png,psychic,hypno
+123,Hyper CutterShell Armor,Krabby,14.3,Krabby,Electric Grass,98,16,krabby,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png,water,krabby
+124,Hyper CutterShell Armor,Kingler,132.3,Kingler,Electric Grass,99,51,kingler,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png,water,kingler
+125,SoundproofStatic,Voltorb,22.9,Voltorb,Ground,100,20,voltorb,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png,electric,voltorb
+126,SoundproofStatic,Electrode,146.8,Electrode,Ground,101,47,electrode,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png,electric,electrode
+127,Chlorophyll,Exeggcute,5.5,Exeggcute,Bug Dark Fire Flying Ghost Ice Poison,102,16,exeggcute,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png,grass psychic,exeggcute
+128,Frisk,Exeggutor,916.2,Exeggutor,Flying Ice Dragon Poison Fairy Bug,103,429,exeggutor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png,grass dragon,exeggutor
+129,Chlorophyll,Exeggutor,264.6,Exeggutor,Bug Dark Fire Flying Ghost Ice Poison,103,79,exeggutor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png,grass psychic,exeggutor
+130,Lightning RodRock Head,Cubone,14.3,Cubone,Grass Ice Water,104,16,cubone,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png,ground,cubone
+131,Cursed BodyLightning Rod,Marowak,75,Marowak,Water Ghost Ground Dark Rock,105,39,marowak,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png,fire ghost,marowak
+132,Lightning RodRock Head,Marowak,99.2,Marowak,Grass Ice Water,105,39,marowak,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png,ground,marowak
+133,LimberReckless,Hitmonlee,109.8,Hitmonlee,Flying Psychic Fairy,106,59,hitmonlee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png,fighting,hitmonlee
+134,Iron FistKeen Eye,Hitmonchan,110.7,Hitmonchan,Flying Psychic Fairy,107,55,hitmonchan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png,fighting,hitmonchan
+135,ObliviousOwn Tempo,Lickitung,144.4,Lickitung,Fighting,108,47,lickitung,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png,normal,lickitung
+136,Levitate,Koffing,2.2,Koffing,Psychic,109,24,koffing,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png,poison,koffing
+137,Levitate,Weezing,20.9,Weezing,Psychic,110,47,weezing,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png,poison,weezing
+138,Lightning RodRock Head,Rhyhorn,253.5,Rhyhorn,Grass Water Fighting Ground Ice Steel,111,39,rhyhorn,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png,ground rock,rhyhorn
+139,Lightning RodRock Head,Rhydon,264.6,Rhydon,Grass Water Fighting Ground Ice Steel,112,75,rhydon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png,ground rock,rhydon
+140,Natural CureSerene Grace,Chansey,76.3,Chansey,Fighting,113,43,chansey,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png,normal,chansey
+141,ChlorophyllLeaf Guard,Tangela,77.2,Tangela,Bug Fire Flying Ice Poison,114,39,tangela,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png,grass,tangela
+142,Parental Bond,Kangaskhan,220.5,Kangaskhan,Fighting,115,87,kangaskhan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png,normal,kangaskhan
+143,Early BirdScrappy,Kangaskhan,176.4,Kangaskhan,Fighting,115,87,kangaskhan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png,normal,kangaskhan
+144,SniperSwift Swim,Horsea,17.6,Horsea,Electric Grass,116,16,horsea,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png,water,horsea
+145,Poison PointSniper,Seadra,55.1,Seadra,Electric Grass,117,47,seadra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png,water,seadra
+146,Swift SwimWater Veil,Goldeen,33.1,Goldeen,Electric Grass,118,24,goldeen,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png,water,goldeen
+147,Swift SwimWater Veil,Seaking,86,Seaking,Electric Grass,119,51,seaking,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png,water,seaking
+148,IlluminateNatural Cure,Staryu,76.1,Staryu,Electric Grass,120,31,staryu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png,water,staryu
+149,IlluminateNatural Cure,Starmie,176.4,Starmie,Bug Dark Electric Ghost Grass,121,43,starmie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png,water psychic,starmie
+150,FilterSoundproof,Mr. Mime,120.1,Mr. Mime,Ghost Steel Poison,122,51,mr-mime,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png,psychic fairy,mr-mime
+151,SwarmTechnician,Scyther,123.5,Scyther,Rock Electric Fire Flying Ice,123,59,scyther,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png,bug flying,scyther
+152,ForewarnOblivious,Jynx,89.5,Jynx,Bug Dark Fire Ghost Rock Steel,124,55,jynx,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png,ice psychic,jynx
+153,Static,Electabuzz,66.1,Electabuzz,Ground,125,43,electabuzz,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png,electric,electabuzz
+154,Flame Body,Magmar,98.1,Magmar,Ground Rock Water,126,51,magmar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png,fire,magmar
+155,Aerilate,Pinsir,130.1,Pinsir,Fire Flying Electric Ice Rock,127,67,pinsir,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png,bug flying,pinsir
+156,Hyper CutterMold Breaker,Pinsir,121.3,Pinsir,Fire Flying Rock,127,59,pinsir,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png,bug,pinsir
+157,Anger PointIntimidate,Tauros,194.9,Tauros,Fighting,128,55,tauros,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png,normal,tauros
+158,Swift Swim,Magikarp,22,Magikarp,Electric Grass,129,35,magikarp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png,water,magikarp
+159,Mold Breaker,Gyarados,672.4,Gyarados,Fairy Grass Electric Fighting Bug,130,256,gyarados,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png,water dark,gyarados
+160,Intimidate,Gyarados,518.1,Gyarados,Electric Rock,130,256,gyarados,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png,water flying,gyarados
+161,Shell ArmorWater Absorb,Lapras,485,Lapras,Electric Fighting Grass Rock,131,98,lapras,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png,water ice,lapras
+162,Limber,Ditto,8.8,Ditto,Fighting,132,12,ditto,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png,normal,ditto
+163,AdaptabilityRun Away,Eevee,14.3,Eevee,Fighting,133,12,eevee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png,normal,eevee
+164,Water Absorb,Vaporeon,63.9,Vaporeon,Electric Grass,134,39,vaporeon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png,water,vaporeon
+165,Volt Absorb,Jolteon,54,Jolteon,Ground,135,31,jolteon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png,electric,jolteon
+166,Flash Fire,Flareon,55.1,Flareon,Ground Rock Water,136,35,flareon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png,fire,flareon
+167,DownloadTrace,Porygon,80.5,Porygon,Fighting,137,31,porygon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png,normal,porygon
+168,Shell ArmorSwift Swim,Omanyte,16.5,Omanyte,Grass Electric Fighting Ground,138,16,omanyte,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png,rock water,omanyte
+169,Shell ArmorSwift Swim,Omastar,77.2,Omastar,Grass Electric Fighting Ground,139,39,omastar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png,rock water,omastar
+170,Battle ArmorSwift Swim,Kabuto,25.4,Kabuto,Grass Electric Fighting Ground,140,20,kabuto,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png,rock water,kabuto
+171,Battle ArmorSwift Swim,Kabutops,89.3,Kabutops,Grass Electric Fighting Ground,141,51,kabutops,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png,rock water,kabutops
+172,Tough Claws,Aerodactyl,174.2,Aerodactyl,Steel Electric Water Ice Rock,142,83,aerodactyl,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png,rock flying,aerodactyl
+173,PressureRock Head,Aerodactyl,130.1,Aerodactyl,Electric Ice Rock Steel Water,142,71,aerodactyl,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png,rock flying,aerodactyl
+174,ImmunityThick Fat,Snorlax,1014.1,Snorlax,Fighting,143,83,snorlax,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png,normal,snorlax
+175,Pressure,Articuno,122.1,Articuno,Rock Electric Fire Steel,144,67,articuno,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png,ice flying,articuno
+176,Pressure,Zapdos,116,Zapdos,Ice Rock,145,63,zapdos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png,electric flying,zapdos
+177,Pressure,Moltres,132.3,Moltres,Rock Electric Water,146,79,moltres,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png,fire flying,moltres
+178,Shed Skin,Dratini,7.3,Dratini,Dragon Ice Fairy,147,71,dratini,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png,dragon,dratini
+179,Shed Skin,Dragonair,36.4,Dragonair,Dragon Ice Fairy,148,157,dragonair,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png,dragon,dragonair
+180,Inner Focus,Dragonite,463,Dragonite,Ice Dragon Rock Fairy,149,87,dragonite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png,dragon flying,dragonite
+181,Insomnia,Mewtwo,72.8,Mewtwo,Ghost Dark Bug,150,59,mewtwo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png,psychic,mewtwo
+182,Steadfast,Mewtwo,280,Mewtwo,Ghost Flying Fairy,150,91,mewtwo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png,psychic fighting,mewtwo
+183,Pressure,Mewtwo,269,Mewtwo,Bug Dark Ghost,150,79,mewtwo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png,psychic,mewtwo
+184,Synchronize,Mew,8.8,Mew,Bug Dark Ghost,151,16,mew,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png,psychic,mew
+185,Overgrow,Chikorita,14.1,Chikorita,Bug Fire Flying Ice Poison,152,35,chikorita,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/152.png,grass,chikorita
+186,Overgrow,Bayleef,34.8,Bayleef,Bug Fire Flying Ice Poison,153,47,bayleef,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/153.png,grass,bayleef
+187,Overgrow,Meganium,221.6,Meganium,Bug Fire Flying Ice Poison,154,71,meganium,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png,grass,meganium
+188,Blaze,Cyndaquil,17.4,Cyndaquil,Ground Rock Water,155,20,cyndaquil,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png,fire,cyndaquil
+189,Blaze,Quilava,41.9,Quilava,Ground Rock Water,156,35,quilava,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/156.png,fire,quilava
+190,Blaze,Typhlosion,175.3,Typhlosion,Ground Rock Water,157,67,typhlosion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png,fire,typhlosion
+191,Torrent,Totodile,20.9,Totodile,Electric Grass,158,24,totodile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png,water,totodile
+192,Torrent,Croconaw,55.1,Croconaw,Electric Grass,159,43,croconaw,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png,water,croconaw
+193,Torrent,Feraligatr,195.8,Feraligatr,Electric Grass,160,91,feraligatr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/160.png,water,feraligatr
+194,Keen EyeRun Away,Sentret,13.2,Sentret,Fighting,161,31,sentret,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png,normal,sentret
+195,Keen EyeRun Away,Furret,71.6,Furret,Fighting,162,71,furret,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/162.png,normal,furret
+196,InsomniaKeen Eye,Hoothoot,46.7,Hoothoot,Electric Ice Rock,163,28,hoothoot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png,normal flying,hoothoot
+197,InsomniaKeen Eye,Noctowl,89.9,Noctowl,Electric Ice Rock,164,63,noctowl,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/164.png,normal flying,noctowl
+198,Early BirdSwarm,Ledyba,23.8,Ledyba,Rock Electric Fire Flying Ice,165,39,ledyba,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png,bug flying,ledyba
+199,Early BirdSwarm,Ledian,78.5,Ledian,Rock Electric Fire Flying Ice,166,55,ledian,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/166.png,bug flying,ledian
+200,InsomniaSwarm,Spinarak,18.7,Spinarak,Fire Flying Psychic Rock,167,20,spinarak,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/167.png,bug poison,spinarak
+201,InsomniaSwarm,Ariados,73.9,Ariados,Fire Flying Psychic Rock,168,43,ariados,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/168.png,bug poison,ariados
+202,Inner Focus,Crobat,165.3,Crobat,Electric Ice Psychic Rock,169,71,crobat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/169.png,poison flying,crobat
+203,IlluminateVolt Absorb,Chinchou,26.5,Chinchou,Grass Ground,170,20,chinchou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/170.png,water electric,chinchou
+204,IlluminateVolt Absorb,Lanturn,49.6,Lanturn,Grass Ground,171,47,lanturn,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/171.png,water electric,lanturn
+205,Static,Pichu,4.4,Pichu,Ground,172,12,pichu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/172.png,electric,pichu
+206,Cute CharmMagic Guard,Cleffa,6.6,Cleffa,Steel Poison,173,12,cleffa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/173.png,fairy,cleffa
+207,CompetitiveCute Charm,Igglybuff,2.2,Igglybuff,Steel Poison,174,12,igglybuff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/174.png,normal fairy,igglybuff
+208,HustleSerene Grace,Togepi,3.3,Togepi,Steel Poison,175,12,togepi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png,fairy,togepi
+209,HustleSerene Grace,Togetic,7.1,Togetic,Electric Ice Rock Steel Poison,176,24,togetic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/176.png,fairy flying,togetic
+210,Early BirdSynchronize,Natu,4.4,Natu,Dark Electric Ghost Ice Rock,177,8,natu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/177.png,psychic flying,natu
+211,Early BirdSynchronize,Xatu,33.1,Xatu,Dark Electric Ghost Ice Rock,178,59,xatu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/178.png,psychic flying,xatu
+212,Static,Mareep,17.2,Mareep,Ground,179,24,mareep,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png,electric,mareep
+213,Static,Flaaffy,29.3,Flaaffy,Ground,180,31,flaaffy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png,electric,flaaffy
+214,Mold Breaker,Ampharos,135.6,Ampharos,Fairy Dragon Ice Ground,181,55,ampharos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png,electric dragon,ampharos
+215,Static,Ampharos,135.6,Ampharos,Ground,181,55,ampharos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png,electric,ampharos
+216,Chlorophyll,Bellossom,12.8,Bellossom,Bug Fire Flying Ice Poison,182,16,bellossom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png,grass,bellossom
+217,Huge PowerThick Fat,Marill,18.7,Marill,Electric Grass Poison,183,16,marill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png,water fairy,marill
+218,Huge PowerThick Fat,Azumarill,62.8,Azumarill,Electric Grass Poison,184,31,azumarill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/184.png,water fairy,azumarill
+219,Rock HeadSturdy,Sudowoodo,83.8,Sudowoodo,Fighting Grass Ground Steel Water,185,47,sudowoodo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png,rock,sudowoodo
+220,DampWater Absorb,Politoed,74.7,Politoed,Electric Grass,186,43,politoed,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/186.png,water,politoed
+221,ChlorophyllLeaf Guard,Hoppip,1.1,Hoppip,Ice Fire Flying Poison Rock,187,16,hoppip,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/187.png,grass flying,hoppip
+222,ChlorophyllLeaf Guard,Skiploom,2.2,Skiploom,Ice Fire Flying Poison Rock,188,24,skiploom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/188.png,grass flying,skiploom
+223,ChlorophyllLeaf Guard,Jumpluff,6.6,Jumpluff,Ice Fire Flying Poison Rock,189,31,jumpluff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/189.png,grass flying,jumpluff
+224,PickupRun Away,Aipom,25.4,Aipom,Fighting,190,31,aipom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/190.png,normal,aipom
+225,ChlorophyllSolar Power,Sunkern,4,Sunkern,Bug Fire Flying Ice Poison,191,12,sunkern,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/191.png,grass,sunkern
+226,ChlorophyllSolar Power,Sunflora,18.7,Sunflora,Bug Fire Flying Ice Poison,192,31,sunflora,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/192.png,grass,sunflora
+227,Compound EyesSpeed Boost,Yanma,83.8,Yanma,Rock Electric Fire Flying Ice,193,47,yanma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png,bug flying,yanma
+228,DampWater Absorb,Wooper,18.7,Wooper,Grass,194,16,wooper,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/194.png,water ground,wooper
+229,DampWater Absorb,Quagsire,165.3,Quagsire,Grass,195,55,quagsire,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/195.png,water ground,quagsire
+230,Synchronize,Espeon,58.4,Espeon,Bug Dark Ghost,196,35,espeon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png,psychic,espeon
+231,Synchronize,Umbreon,59.5,Umbreon,Fighting Bug Fairy,197,39,umbreon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png,dark,umbreon
+232,InsomniaSuper Luck,Murkrow,4.6,Murkrow,Electric Ice Rock Fairy,198,20,murkrow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/198.png,dark flying,murkrow
+233,ObliviousOwn Tempo,Slowking,175.3,Slowking,Bug Dark Electric Ghost Grass,199,79,slowking,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/199.png,water psychic,slowking
+234,Levitate,Misdreavus,2.2,Misdreavus,Dark Ghost,200,28,misdreavus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/200.png,ghost,misdreavus
+235,Levitate,Unown,11,Unown,Bug Dark Ghost,201,20,unown,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/201.png,psychic,unown
+236,Shadow Tag,Wobbuffet,62.8,Wobbuffet,Bug Dark Ghost,202,51,wobbuffet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/202.png,psychic,wobbuffet
+237,Early BirdInner Focus,Girafarig,91.5,Girafarig,Bug Dark,203,59,girafarig,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/203.png,normal psychic,girafarig
+238,Sturdy,Pineco,15.9,Pineco,Fire Flying Rock,204,24,pineco,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/204.png,bug,pineco
+239,Sturdy,Forretress,277.3,Forretress,Fire,205,47,forretress,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/205.png,bug steel,forretress
+240,Run AwaySerene Grace,Dunsparce,30.9,Dunsparce,Fighting,206,59,dunsparce,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/206.png,normal,dunsparce
+241,Hyper CutterSand Veil,Gligar,142.9,Gligar,Ice Water,207,43,gligar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/207.png,ground flying,gligar
+242,Sand Force,Steelix,1631.4,Steelix,Fire Water Fighting Ground,208,413,steelix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png,steel ground,steelix
+243,Rock HeadSturdy,Steelix,881.8,Steelix,Fighting Fire Ground Water,208,362,steelix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png,steel ground,steelix
+244,IntimidateRun Away,Snubbull,17.2,Snubbull,Steel Poison,209,24,snubbull,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/209.png,fairy,snubbull
+245,IntimidateQuick Feet,Granbull,107.4,Granbull,Steel Poison,210,55,granbull,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/210.png,fairy,granbull
+246,Poison PointSwift Swim,Qwilfish,8.6,Qwilfish,Electric Ground Psychic,211,20,qwilfish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/211.png,water poison,qwilfish
+247,Technician,Scizor,275.6,Scizor,Fire,212,79,scizor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png,bug steel,scizor
+248,SwarmTechnician,Scizor,260.1,Scizor,Fire,212,71,scizor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png,bug steel,scizor
+249,GluttonySturdy,Shuckle,45.2,Shuckle,Rock Steel Water,213,24,shuckle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png,bug rock,shuckle
+250,Skill Link,Heracross,137.8,Heracross,Fire Psychic Flying Fairy,214,67,heracross,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png,bug fighting,heracross
+251,GutsSwarm,Heracross,119,Heracross,Flying Fire Psychic Fairy,214,59,heracross,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png,bug fighting,heracross
+252,Inner FocusKeen Eye,Sneasel,61.7,Sneasel,Fighting Bug Fire Rock Steel Fairy,215,35,sneasel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/215.png,dark ice,sneasel
+253,PickupQuick Feet,Teddiursa,19.4,Teddiursa,Fighting,216,24,teddiursa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/216.png,normal,teddiursa
+254,GutsQuick Feet,Ursaring,277.3,Ursaring,Fighting,217,71,ursaring,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/217.png,normal,ursaring
+255,Flame BodyMagma Armor,Slugma,77.2,Slugma,Ground Rock Water,218,28,slugma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/218.png,fire,slugma
+256,Flame BodyMagma Armor,Magcargo,121.3,Magcargo,Ground Water Fighting Rock,219,31,magcargo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/219.png,fire rock,magcargo
+257,ObliviousSnow Cloak,Swinub,14.3,Swinub,Fighting Fire Grass Steel Water,220,16,swinub,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/220.png,ice ground,swinub
+258,ObliviousSnow Cloak,Piloswine,123,Piloswine,Fighting Fire Grass Steel Water,221,43,piloswine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/221.png,ice ground,piloswine
+259,HustleNatural Cure,Corsola,11,Corsola,Grass Electric Fighting Ground,222,24,corsola,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/222.png,water rock,corsola
+260,HustleSniper,Remoraid,26.5,Remoraid,Electric Grass,223,24,remoraid,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/223.png,water,remoraid
+261,SniperSuction Cups,Octillery,62.8,Octillery,Electric Grass,224,35,octillery,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/224.png,water,octillery
+262,HustleVital Spirit,Delibird,35.3,Delibird,Rock Electric Fire Steel,225,35,delibird,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/225.png,ice flying,delibird
+263,Swift SwimWater Absorb,Mantine,485,Mantine,Electric Rock,226,83,mantine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/226.png,water flying,mantine
+264,Keen EyeSturdy,Skarmory,111.3,Skarmory,Electric Fire,227,67,skarmory,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/227.png,steel flying,skarmory
+265,Early BirdFlash Fire,Houndour,23.8,Houndour,Fighting Ground Rock Water,228,24,houndour,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/228.png,dark fire,houndour
+266,Solar Power,Houndoom,109.1,Houndoom,Fighting Water Rock Ground,229,75,houndoom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png,dark fire,houndoom
+267,Early BirdFlash Fire,Houndoom,77.2,Houndoom,Fighting Ground Rock Water,229,55,houndoom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png,dark fire,houndoom
+268,SniperSwift Swim,Kingdra,335.1,Kingdra,Dragon Fairy,230,71,kingdra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/230.png,water dragon,kingdra
+269,Pickup,Phanpy,73.9,Phanpy,Grass Ice Water,231,20,phanpy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/231.png,ground,phanpy
+270,Sturdy,Donphan,264.6,Donphan,Grass Ice Water,232,43,donphan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/232.png,ground,donphan
+271,DownloadTrace,Porygon2,71.6,Porygon2,Fighting,233,24,porygon2,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/233.png,normal,porygon2
+272,FriskIntimidate,Stantler,157,Stantler,Fighting,234,55,stantler,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/234.png,normal,stantler
+273,Own TempoTechnician,Smeargle,127.9,Smeargle,Fighting,235,47,smeargle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/235.png,normal,smeargle
+274,GutsSteadfast,Tyrogue,46.3,Tyrogue,Flying Psychic Fairy,236,28,tyrogue,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/236.png,fighting,tyrogue
+275,IntimidateTechnician,Hitmontop,105.8,Hitmontop,Flying Psychic Fairy,237,55,hitmontop,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/237.png,fighting,hitmontop
+276,ForewarnOblivious,Smoochum,13.2,Smoochum,Bug Dark Fire Ghost Rock Steel,238,16,smoochum,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/238.png,ice psychic,smoochum
+277,Static,Elekid,51.8,Elekid,Ground,239,24,elekid,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/239.png,electric,elekid
+278,Flame Body,Magby,47.2,Magby,Ground Rock Water,240,28,magby,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/240.png,fire,magby
+279,ScrappyThick Fat,Miltank,166.4,Miltank,Fighting,241,47,miltank,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/241.png,normal,miltank
+280,Natural CureSerene Grace,Blissey,103.2,Blissey,Fighting,242,59,blissey,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/242.png,normal,blissey
+281,Pressure,Raikou,392.4,Raikou,Ground,243,75,raikou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png,electric,raikou
+282,Pressure,Entei,436.5,Entei,Ground Rock Water,244,83,entei,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png,fire,entei
+283,Pressure,Suicune,412.3,Suicune,Electric Grass,245,79,suicune,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png,water,suicune
+284,Guts,Larvitar,158.7,Larvitar,Grass Water Fighting Ground Ice Steel,246,24,larvitar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/246.png,rock ground,larvitar
+285,Shed Skin,Pupitar,335.1,Pupitar,Grass Water Fighting Ground Ice Steel,247,47,pupitar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/247.png,rock ground,pupitar
+286,Sand Stream,Tyranitar,562.2,Tyranitar,Steel Fighting Water Fairy Grass Bug Ground,248,98,tyranitar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png,rock dark,tyranitar
+287,Sand Stream,Tyranitar,445.3,Tyranitar,Fighting Bug Grass Ground Steel Water Fairy,248,79,tyranitar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png,rock dark,tyranitar
+288,Pressure,Lugia,476.2,Lugia,Dark Electric Ghost Ice Rock,249,205,lugia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png,psychic flying,lugia
+289,Pressure,Ho-Oh,438.7,Ho-Oh,Rock Electric Water,250,150,ho-oh,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png,fire flying,ho-oh
+290,Natural Cure,Celebi,11,Celebi,Bug Dark Fire Flying Ghost Ice Poison,251,24,celebi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png,psychic grass,celebi
+291,Overgrow,Treecko,11,Treecko,Bug Fire Flying Ice Poison,252,20,treecko,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/252.png,grass,treecko
+292,Overgrow,Grovyle,47.6,Grovyle,Bug Fire Flying Ice Poison,253,35,grovyle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/253.png,grass,grovyle
+293,Lightning Rod,Sceptile,121.7,Sceptile,Flying Poison Dragon Ice Fairy Bug,254,75,sceptile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png,grass dragon,sceptile
+294,Overgrow,Sceptile,115.1,Sceptile,Bug Fire Flying Ice Poison,254,67,sceptile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png,grass,sceptile
+295,Blaze,Torchic,5.5,Torchic,Ground Rock Water,255,16,torchic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/255.png,fire,torchic
+296,Blaze,Combusken,43,Combusken,Flying Ground Psychic Water,256,35,combusken,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/256.png,fire fighting,combusken
+297,Speed Boost,Blaziken,114.6,Blaziken,Psychic Flying Water Ground,257,75,blaziken,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png,fire fighting,blaziken
+298,Blaze,Blaziken,114.6,Blaziken,Flying Ground Psychic Water,257,75,blaziken,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png,fire fighting,blaziken
+299,Torrent,Mudkip,16.8,Mudkip,Electric Grass,258,16,mudkip,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/258.png,water,mudkip
+300,Torrent,Marshtomp,61.7,Marshtomp,Grass,259,28,marshtomp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/259.png,water ground,marshtomp
+301,Swift Swim,Swampert,224.9,Swampert,Grass,260,75,swampert,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png,water ground,swampert
+302,Torrent,Swampert,180.6,Swampert,Grass,260,59,swampert,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png,water ground,swampert
+303,Quick FeetRun Away,Poochyena,30,Poochyena,Fighting Bug Fairy,261,20,poochyena,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/261.png,dark,poochyena
+304,IntimidateQuick Feet,Mightyena,81.6,Mightyena,Fighting Bug Fairy,262,39,mightyena,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/262.png,dark,mightyena
+305,GluttonyPickup,Zigzagoon,38.6,Zigzagoon,Fighting,263,16,zigzagoon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/263.png,normal,zigzagoon
+306,GluttonyPickup,Linoone,71.6,Linoone,Fighting,264,20,linoone,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/264.png,normal,linoone
+307,Shield Dust,Wurmple,7.9,Wurmple,Fire Flying Rock,265,12,wurmple,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/265.png,bug,wurmple
+308,Shed Skin,Silcoon,22,Silcoon,Fire Flying Rock,266,24,silcoon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/266.png,bug,silcoon
+309,Swarm,Beautifly,62.6,Beautifly,Rock Electric Fire Flying Ice,267,39,beautifly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/267.png,bug flying,beautifly
+310,Shed Skin,Cascoon,25.4,Cascoon,Fire Flying Rock,268,28,cascoon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/268.png,bug,cascoon
+311,Shield Dust,Dustox,69.7,Dustox,Fire Flying Psychic Rock,269,47,dustox,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/269.png,bug poison,dustox
+312,Rain DishSwift Swim,Lotad,5.7,Lotad,Bug Flying Poison,270,20,lotad,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/270.png,water grass,lotad
+313,Rain DishSwift Swim,Lombre,71.6,Lombre,Bug Flying Poison,271,47,lombre,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/271.png,water grass,lombre
+314,Rain DishSwift Swim,Ludicolo,121.3,Ludicolo,Bug Flying Poison,272,59,ludicolo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/272.png,water grass,ludicolo
+315,ChlorophyllEarly Bird,Seedot,8.8,Seedot,Bug Fire Flying Ice Poison,273,20,seedot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/273.png,grass,seedot
+316,ChlorophyllEarly Bird,Nuzleaf,61.7,Nuzleaf,Bug Fire Fighting Flying Ice Poison Fairy,274,39,nuzleaf,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/274.png,grass dark,nuzleaf
+317,ChlorophyllEarly Bird,Shiftry,131.4,Shiftry,Bug Fire Fighting Flying Ice Poison Fairy,275,51,shiftry,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/275.png,grass dark,shiftry
+318,Guts,Taillow,5.1,Taillow,Electric Ice Rock,276,12,taillow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/276.png,normal flying,taillow
+319,Guts,Swellow,43.7,Swellow,Electric Ice Rock,277,28,swellow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/277.png,normal flying,swellow
+320,Keen Eye,Wingull,20.9,Wingull,Electric Rock,278,24,wingull,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/278.png,water flying,wingull
+321,Keen Eye,Pelipper,61.7,Pelipper,Electric Rock,279,47,pelipper,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/279.png,water flying,pelipper
+322,SynchronizeTrace,Ralts,14.6,Ralts,Ghost Steel Poison,280,16,ralts,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/280.png,psychic fairy,ralts
+323,SynchronizeTrace,Kirlia,44.5,Kirlia,Ghost Steel Poison,281,31,kirlia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/281.png,psychic fairy,kirlia
+324,Pixilate,Gardevoir,106.7,Gardevoir,Ghost Steel Poison,282,63,gardevoir,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png,psychic fairy,gardevoir
+325,SynchronizeTrace,Gardevoir,106.7,Gardevoir,Ghost Steel Poison,282,63,gardevoir,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png,psychic fairy,gardevoir
+326,Swift Swim,Surskit,3.7,Surskit,Electric Flying Rock,283,20,surskit,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/283.png,bug water,surskit
+327,Intimidate,Masquerain,7.9,Masquerain,Rock Electric Fire Flying Ice,284,31,masquerain,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/284.png,bug flying,masquerain
+328,Effect SporePoison Heal,Shroomish,9.9,Shroomish,Bug Fire Flying Ice Poison,285,16,shroomish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/285.png,grass,shroomish
+329,Effect SporePoison Heal,Breloom,86.4,Breloom,Flying Fire Ice Poison Psychic Fairy,286,47,breloom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/286.png,grass fighting,breloom
+330,Truant,Slakoth,52.9,Slakoth,Fighting,287,31,slakoth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/287.png,normal,slakoth
+331,Vital Spirit,Vigoroth,102.5,Vigoroth,Fighting,288,55,vigoroth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/288.png,normal,vigoroth
+332,Truant,Slaking,287.7,Slaking,Fighting,289,79,slaking,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/289.png,normal,slaking
+333,Compound Eyes,Nincada,12.1,Nincada,Fire Flying Ice Water,290,20,nincada,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/290.png,bug ground,nincada
+334,Speed Boost,Ninjask,26.5,Ninjask,Rock Electric Fire Flying Ice,291,31,ninjask,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/291.png,bug flying,ninjask
+335,Wonder Guard,Shedinja,2.6,Shedinja,Dark Fire Flying Ghost Rock,292,31,shedinja,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/292.png,bug ghost,shedinja
+336,Soundproof,Whismur,35.9,Whismur,Fighting,293,24,whismur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/293.png,normal,whismur
+337,Soundproof,Loudred,89.3,Loudred,Fighting,294,39,loudred,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/294.png,normal,loudred
+338,Soundproof,Exploud,185.2,Exploud,Fighting,295,59,exploud,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/295.png,normal,exploud
+339,GutsThick Fat,Makuhita,190.5,Makuhita,Flying Psychic Fairy,296,39,makuhita,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/296.png,fighting,makuhita
+340,GutsThick Fat,Hariyama,559.5,Hariyama,Flying Psychic Fairy,297,91,hariyama,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/297.png,fighting,hariyama
+341,Huge PowerThick Fat,Azurill,4.4,Azurill,Steel Poison,298,8,azurill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/298.png,normal fairy,azurill
+342,Magnet PullSturdy,Nosepass,213.8,Nosepass,Fighting Grass Ground Steel Water,299,39,nosepass,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/299.png,rock,nosepass
+343,Cute CharmNormalize,Skitty,24.3,Skitty,Fighting,300,24,skitty,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/300.png,normal,skitty
+344,Cute CharmNormalize,Delcatty,71.9,Delcatty,Fighting,301,43,delcatty,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/301.png,normal,delcatty
+345,Magic Bounce,Sableye,354.9,Sableye,Fairy,302,20,sableye,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302.png,dark ghost,sableye
+346,Keen EyeStall,Sableye,24.3,Sableye,Fairy,302,20,sableye,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302.png,dark ghost,sableye
+347,Huge Power,Mawile,51.8,Mawile,Fire Ground,303,39,mawile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png,steel fairy,mawile
+348,Hyper CutterIntimidate,Mawile,25.4,Mawile,Fire Ground,303,24,mawile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png,steel fairy,mawile
+349,Rock HeadSturdy,Aron,132.3,Aron,Fighting Ground Water,304,16,aron,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/304.png,steel rock,aron
+350,Rock HeadSturdy,Lairon,264.6,Lairon,Fighting Ground Water,305,35,lairon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/305.png,steel rock,lairon
+351,Filter,Aggron,870.8,Aggron,Fire Fighting Ground,306,87,aggron,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306.png,steel,aggron
+352,Rock HeadSturdy,Aggron,793.7,Aggron,Fighting Ground Water,306,83,aggron,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306.png,steel rock,aggron
+353,Pure Power,Meditite,24.7,Meditite,Flying Ghost Fairy,307,24,meditite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/307.png,fighting psychic,meditite
+354,Pure Power,Medicham,69.4,Medicham,Ghost Flying Fairy,308,51,medicham,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308.png,fighting psychic,medicham
+355,Pure Power,Medicham,69.4,Medicham,Flying Ghost Fairy,308,51,medicham,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308.png,fighting psychic,medicham
+356,Lightning RodStatic,Electrike,33.5,Electrike,Ground,309,24,electrike,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/309.png,electric,electrike
+357,Intimidate,Manectric,97,Manectric,Ground,310,71,manectric,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png,electric,manectric
+358,Lightning RodStatic,Manectric,88.6,Manectric,Ground,310,59,manectric,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png,electric,manectric
+359,Plus,Plusle,9.3,Plusle,Ground,311,16,plusle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/311.png,electric,plusle
+360,Minus,Minun,9.3,Minun,Ground,312,16,minun,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/312.png,electric,minun
+361,IlluminateSwarm,Volbeat,39,Volbeat,Fire Flying Rock,313,28,volbeat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/313.png,bug,volbeat
+362,ObliviousTinted Lens,Illumise,39,Illumise,Fire Flying Rock,314,24,illumise,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/314.png,bug,illumise
+363,Natural CurePoison Point,Roselia,4.4,Roselia,Fire Flying Ice Psychic,315,12,roselia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/315.png,grass poison,roselia
+364,Liquid OozeSticky Hold,Gulpin,22.7,Gulpin,Ground Psychic,316,16,gulpin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/316.png,poison,gulpin
+365,Liquid OozeSticky Hold,Swalot,176.4,Swalot,Ground Psychic,317,67,swalot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/317.png,poison,swalot
+366,Rough Skin,Carvanha,45.9,Carvanha,Bug Electric Fighting Grass Fairy,318,31,carvanha,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/318.png,water dark,carvanha
+367,Strong Jaw,Sharpedo,287.3,Sharpedo,Fairy Grass Electric Fighting Bug,319,98,sharpedo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319.png,water dark,sharpedo
+368,Rough Skin,Sharpedo,195.8,Sharpedo,Bug Electric Fighting Grass Fairy,319,71,sharpedo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319.png,water dark,sharpedo
+369,ObliviousWater Veil,Wailmer,286.6,Wailmer,Electric Grass,320,79,wailmer,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/320.png,water,wailmer
+370,ObliviousWater Veil,Wailord,877.4,Wailord,Electric Grass,321,571,wailord,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/321.png,water,wailord
+371,ObliviousSimple,Numel,52.9,Numel,Water Ground,322,28,numel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/322.png,fire ground,numel
+372,Sheer Force,Camerupt,706.6,Camerupt,Water Ground,323,98,camerupt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png,fire ground,camerupt
+373,Magma ArmorSolid Rock,Camerupt,485,Camerupt,Water Ground,323,75,camerupt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png,fire ground,camerupt
+374,White Smoke,Torkoal,177.2,Torkoal,Ground Rock Water,324,20,torkoal,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/324.png,fire,torkoal
+375,Own TempoThick Fat,Spoink,67.5,Spoink,Bug Dark Ghost,325,28,spoink,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/325.png,psychic,spoink
+376,Own TempoThick Fat,Grumpig,157.6,Grumpig,Bug Dark Ghost,326,35,grumpig,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/326.png,psychic,grumpig
+377,Own TempoTangled Feet,Spinda,11,Spinda,Fighting,327,43,spinda,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/327.png,normal,spinda
+378,Arena TrapHyper Cutter,Trapinch,33.1,Trapinch,Grass Ice Water,328,28,trapinch,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/328.png,ground,trapinch
+379,Levitate,Vibrava,33.7,Vibrava,Ice Dragon Fairy,329,43,vibrava,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/329.png,ground dragon,vibrava
+380,Levitate,Flygon,180.8,Flygon,Ice Dragon Fairy,330,79,flygon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/330.png,ground dragon,flygon
+381,Sand Veil,Cacnea,113.1,Cacnea,Bug Fire Flying Ice Poison,331,16,cacnea,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/331.png,grass,cacnea
+382,Sand Veil,Cacturne,170.6,Cacturne,Bug Fire Fighting Flying Ice Poison Fairy,332,51,cacturne,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/332.png,grass dark,cacturne
+383,Natural Cure,Swablu,2.6,Swablu,Electric Ice Rock,333,16,swablu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/333.png,normal flying,swablu
+384,Pixilate,Altaria,45.4,Altaria,Steel Fairy Poison Ice,334,59,altaria,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png,dragon fairy,altaria
+385,Natural Cure,Altaria,45.4,Altaria,Ice Dragon Rock Fairy,334,43,altaria,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png,dragon flying,altaria
+386,Immunity,Zangoose,88.8,Zangoose,Fighting,335,51,zangoose,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/335.png,normal,zangoose
+387,Shed Skin,Seviper,115.7,Seviper,Ground Psychic,336,106,seviper,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/336.png,poison,seviper
+388,Levitate,Lunatone,370.4,Lunatone,Bug Dark Ghost Grass Steel Water,337,39,lunatone,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/337.png,rock psychic,lunatone
+389,Levitate,Solrock,339.5,Solrock,Bug Dark Ghost Grass Steel Water,338,47,solrock,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/338.png,rock psychic,solrock
+390,AnticipationOblivious,Barboach,4.2,Barboach,Grass,339,16,barboach,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/339.png,water ground,barboach
+391,AnticipationOblivious,Whiscash,52,Whiscash,Grass,340,35,whiscash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/340.png,water ground,whiscash
+392,Hyper CutterShell Armor,Corphish,25.4,Corphish,Electric Grass,341,24,corphish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/341.png,water,corphish
+393,Hyper CutterShell Armor,Crawdaunt,72.3,Crawdaunt,Bug Electric Fighting Grass Fairy,342,43,crawdaunt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/342.png,water dark,crawdaunt
+394,Levitate,Baltoy,47.4,Baltoy,Bug Dark Ghost Grass Water Ice,343,20,baltoy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/343.png,ground psychic,baltoy
+395,Levitate,Claydol,238.1,Claydol,Bug Dark Ghost Grass Water Ice,344,59,claydol,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/344.png,ground psychic,claydol
+396,Suction Cups,Lileep,52.5,Lileep,Bug Fighting Ice Steel,345,39,lileep,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/345.png,rock grass,lileep
+397,Suction Cups,Cradily,133.2,Cradily,Bug Fighting Ice Steel,346,59,cradily,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/346.png,rock grass,cradily
+398,Battle Armor,Anorith,27.6,Anorith,Rock Steel Water,347,28,anorith,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/347.png,rock bug,anorith
+399,Battle Armor,Armaldo,150.4,Armaldo,Rock Steel Water,348,59,armaldo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/348.png,rock bug,armaldo
+400,ObliviousSwift Swim,Feebas,16.3,Feebas,Electric Grass,349,24,feebas,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/349.png,water,feebas
+401,CompetitiveMarvel Scale,Milotic,357.1,Milotic,Electric Grass,350,244,milotic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/350.png,water,milotic
+402,Forecast,Castform,1.8,Castform,Fire Steel Fighting Rock,351,12,castform,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png,ice,castform
+403,Forecast,Castform,1.8,Castform,Grass Electric,351,12,castform,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png,water,castform
+404,Forecast,Castform,1.8,Castform,Water Rock Ground,351,12,castform,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png,fire,castform
+405,Forecast,Castform,1.8,Castform,Fighting,351,12,castform,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png,normal,castform
+406,Color Change,Kecleon,48.5,Kecleon,Fighting,352,39,kecleon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/352.png,normal,kecleon
+407,FriskInsomnia,Shuppet,5.1,Shuppet,Dark Ghost,353,24,shuppet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/353.png,ghost,shuppet
+408,Prankster,Banette,28.7,Banette,Ghost Dark,354,47,banette,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png,ghost,banette
+409,FriskInsomnia,Banette,27.6,Banette,Dark Ghost,354,43,banette,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png,ghost,banette
+410,Levitate,Duskull,33.1,Duskull,Dark Ghost,355,31,duskull,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/355.png,ghost,duskull
+411,Pressure,Dusclops,67.5,Dusclops,Dark Ghost,356,63,dusclops,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/356.png,ghost,dusclops
+412,ChlorophyllSolar Power,Tropius,220.5,Tropius,Ice Fire Flying Poison Rock,357,79,tropius,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/357.png,grass flying,tropius
+413,Levitate,Chimecho,2.2,Chimecho,Bug Dark Ghost,358,24,chimecho,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/358.png,psychic,chimecho
+414,Magic Bounce,Absol,108,Absol,Fairy Bug Fighting,359,47,absol,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png,dark,absol
+415,PressureSuper Luck,Absol,103.6,Absol,Fighting Bug Fairy,359,47,absol,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png,dark,absol
+416,Shadow Tag,Wynaut,30.9,Wynaut,Bug Dark Ghost,360,24,wynaut,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/360.png,psychic,wynaut
+417,Ice BodyInner Focus,Snorunt,37,Snorunt,Fire Fighting Rock Steel,361,28,snorunt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/361.png,ice,snorunt
+418,Refrigerate,Glalie,772.1,Glalie,Fire Steel Fighting Rock,362,83,glalie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png,ice,glalie
+419,Ice BodyInner Focus,Glalie,565.5,Glalie,Fire Fighting Rock Steel,362,59,glalie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png,ice,glalie
+420,Ice BodyThick Fat,Spheal,87.1,Spheal,Electric Fighting Grass Rock,363,31,spheal,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/363.png,ice water,spheal
+421,Ice BodyThick Fat,Sealeo,193.1,Sealeo,Electric Fighting Grass Rock,364,43,sealeo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/364.png,ice water,sealeo
+422,Ice BodyThick Fat,Walrein,332,Walrein,Electric Fighting Grass Rock,365,55,walrein,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/365.png,ice water,walrein
+423,Shell Armor,Clamperl,115.7,Clamperl,Electric Grass,366,16,clamperl,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/366.png,water,clamperl
+424,Swift Swim,Huntail,59.5,Huntail,Electric Grass,367,67,huntail,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/367.png,water,huntail
+425,Swift Swim,Gorebyss,49.8,Gorebyss,Electric Grass,368,71,gorebyss,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/368.png,water,gorebyss
+426,Rock HeadSwift Swim,Relicanth,51.6,Relicanth,Grass Electric Fighting Ground,369,39,relicanth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/369.png,water rock,relicanth
+427,Swift Swim,Luvdisc,19.2,Luvdisc,Electric Grass,370,24,luvdisc,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/370.png,water,luvdisc
+428,Rock Head,Bagon,92.8,Bagon,Dragon Ice Fairy,371,24,bagon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/371.png,dragon,bagon
+429,Rock Head,Shelgon,243.6,Shelgon,Dragon Ice Fairy,372,43,shelgon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/372.png,dragon,shelgon
+430,Aerilate,Salamence,248.2,Salamence,Fairy Rock Ice Dragon,373,71,salamence,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373.png,dragon flying,salamence
+431,Intimidate,Salamence,226.2,Salamence,Ice Dragon Rock Fairy,373,59,salamence,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373.png,dragon flying,salamence
+432,Clear Body,Beldum,209.9,Beldum,Fire Ground Ghost Dark,374,24,beldum,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/374.png,steel psychic,beldum
+433,Clear Body,Metang,446.4,Metang,Fire Ground Ghost Dark,375,47,metang,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/375.png,steel psychic,metang
+434,Tough Claws,Metagross,2078.7,Metagross,Ghost Fire Dark Ground,376,98,metagross,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png,steel psychic,metagross
+435,Clear Body,Metagross,1212.5,Metagross,Fire Ground Ghost Dark,376,63,metagross,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png,steel psychic,metagross
+436,Clear Body,Regirock,507.1,Regirock,Fighting Grass Ground Steel Water,377,67,regirock,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/377.png,rock,regirock
+437,Clear Body,Regice,385.8,Regice,Fire Fighting Rock Steel,378,71,regice,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/378.png,ice,regice
+438,Clear Body,Registeel,451.9,Registeel,Fighting Fire Ground,379,75,registeel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/379.png,steel,registeel
+439,Levitate,Latias,114.6,Latias,Ghost Ice Dragon Dark Fairy Bug,380,71,latias,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png,dragon psychic,latias
+440,Levitate,Latias,88.2,Latias,Bug Dark Dragon Ghost Ice Fairy,380,55,latias,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png,dragon psychic,latias
+441,Levitate,Latios,154.3,Latios,Ghost Ice Dragon Dark Fairy Bug,381,91,latios,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png,dragon psychic,latios
+442,Levitate,Latios,132.3,Latios,Bug Dark Dragon Ghost Ice Fairy,381,79,latios,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png,dragon psychic,latios
+443,Primordial Sea,Kyogre,948,Kyogre,Grass Electric,382,386,kyogre,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png,water,kyogre
+444,Drizzle,Kyogre,776,Kyogre,Electric Grass,382,177,kyogre,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png,water,kyogre
+445,Desolate Land,Groudon,2204,Groudon,Water Ground,383,197,groudon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png,ground fire,groudon
+446,Drought,Groudon,2094.4,Groudon,Grass Ice Water,383,138,groudon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png,ground,groudon
+447,Delta Stream,Rayquaza,864.2,Rayquaza,Fairy Rock Ice Dragon,384,425,rayquaza,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png,dragon flying,rayquaza
+448,Air Lock,Rayquaza,455.2,Rayquaza,Ice Dragon Rock Fairy,384,276,rayquaza,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png,dragon flying,rayquaza
+449,Serene Grace,Jirachi,2.4,Jirachi,Fire Ground Ghost Dark,385,12,jirachi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/385.png,steel psychic,jirachi
+450,Pressure,Deoxys,134,Deoxys,Bug Dark Ghost,386,67,deoxys,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png,psychic,deoxys
+451,Pressure,Deoxys,134,Deoxys,Bug Dark Ghost,386,67,deoxys,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png,psychic,deoxys
+452,Pressure,Deoxys,134,Deoxys,Bug Dark Ghost,386,67,deoxys,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png,psychic,deoxys
+453,Pressure,Deoxys,134,Deoxys,Bug Dark Ghost,386,67,deoxys,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png,psychic,deoxys
+454,Overgrow,Turtwig,22.5,Turtwig,Bug Fire Flying Ice Poison,387,16,turtwig,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/387.png,grass,turtwig
+455,Overgrow,Grotle,213.8,Grotle,Bug Fire Flying Ice Poison,388,43,grotle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/388.png,grass,grotle
+456,Overgrow,Torterra,683.4,Torterra,Ice Bug Fire Flying,389,87,torterra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/389.png,grass ground,torterra
+457,Blaze,Chimchar,13.7,Chimchar,Ground Rock Water,390,20,chimchar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/390.png,fire,chimchar
+458,Blaze,Monferno,48.5,Monferno,Flying Ground Psychic Water,391,35,monferno,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/391.png,fire fighting,monferno
+459,Blaze,Infernape,121.3,Infernape,Flying Ground Psychic Water,392,47,infernape,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/392.png,fire fighting,infernape
+460,Torrent,Piplup,11.5,Piplup,Electric Grass,393,16,piplup,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/393.png,water,piplup
+461,Torrent,Prinplup,50.7,Prinplup,Electric Grass,394,31,prinplup,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/394.png,water,prinplup
+462,Torrent,Empoleon,186.3,Empoleon,Electric Fighting Ground,395,67,empoleon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/395.png,water steel,empoleon
+463,Keen Eye,Starly,4.4,Starly,Electric Ice Rock,396,12,starly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/396.png,normal flying,starly
+464,Intimidate,Staravia,34.2,Staravia,Electric Ice Rock,397,24,staravia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/397.png,normal flying,staravia
+465,Intimidate,Staraptor,54.9,Staraptor,Electric Ice Rock,398,47,staraptor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/398.png,normal flying,staraptor
+466,SimpleUnaware,Bidoof,44.1,Bidoof,Fighting,399,20,bidoof,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/399.png,normal,bidoof
+467,SimpleUnaware,Bibarel,69.4,Bibarel,Electric Fighting Grass,400,39,bibarel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/400.png,normal water,bibarel
+468,Shed Skin,Kricketot,4.9,Kricketot,Fire Flying Rock,401,12,kricketot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/401.png,bug,kricketot
+469,Swarm,Kricketune,56.2,Kricketune,Fire Flying Rock,402,39,kricketune,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/402.png,bug,kricketune
+470,IntimidateRivalry,Shinx,20.9,Shinx,Ground,403,20,shinx,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/403.png,electric,shinx
+471,IntimidateRivalry,Luxio,67.2,Luxio,Ground,404,35,luxio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/404.png,electric,luxio
+472,IntimidateRivalry,Luxray,92.6,Luxray,Ground,405,55,luxray,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/405.png,electric,luxray
+473,Natural CurePoison Point,Budew,2.6,Budew,Fire Flying Ice Psychic,406,8,budew,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/406.png,grass poison,budew
+474,Natural CurePoison Point,Roserade,32,Roserade,Fire Flying Ice Psychic,407,35,roserade,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/407.png,grass poison,roserade
+475,Mold Breaker,Cranidos,69.4,Cranidos,Fighting Grass Ground Steel Water,408,35,cranidos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/408.png,rock,cranidos
+476,Mold Breaker,Rampardos,226,Rampardos,Fighting Grass Ground Steel Water,409,63,rampardos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/409.png,rock,rampardos
+477,Sturdy,Shieldon,125.7,Shieldon,Fighting Ground Water,410,20,shieldon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/410.png,rock steel,shieldon
+478,Sturdy,Bastiodon,329.6,Bastiodon,Fighting Ground Water,411,51,bastiodon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/411.png,rock steel,bastiodon
+479,Shed Skin,Burmy,7.5,Burmy,Fire Flying Rock,412,8,burmy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png,bug,burmy
+480,Shed Skin,Burmy,7.5,Burmy,Fire Flying Rock,412,8,burmy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png,bug,burmy
+481,Shed Skin,Burmy,7.5,Burmy,Fire Flying Rock,412,8,burmy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png,bug,burmy
+482,Anticipation,Wormadam,14.3,Wormadam,Fire,413,20,wormadam,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png,bug steel,wormadam
+483,Anticipation,Wormadam,14.3,Wormadam,Fire Water Ice Flying,413,20,wormadam,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png,bug ground,wormadam
+484,Anticipation,Wormadam,14.3,Wormadam,Fire Flying Ice Poison Bug Rock,413,20,wormadam,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png,bug grass,wormadam
+485,Swarm,Mothim,51.4,Mothim,Rock Electric Fire Flying Ice,414,35,mothim,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/414.png,bug flying,mothim
+486,Honey Gather,Combee,12.1,Combee,Rock Electric Fire Flying Ice,415,12,combee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/415.png,bug flying,combee
+487,Pressure,Vespiquen,84.9,Vespiquen,Rock Electric Fire Flying Ice,416,47,vespiquen,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/416.png,bug flying,vespiquen
+488,PickupRun Away,Pachirisu,8.6,Pachirisu,Ground,417,16,pachirisu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/417.png,electric,pachirisu
+489,Swift Swim,Buizel,65,Buizel,Electric Grass,418,28,buizel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/418.png,water,buizel
+490,Swift Swim,Floatzel,73.9,Floatzel,Electric Grass,419,43,floatzel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/419.png,water,floatzel
+491,Chlorophyll,Cherubi,7.3,Cherubi,Bug Fire Flying Ice Poison,420,16,cherubi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/420.png,grass,cherubi
+492,Flower Gift,Cherrim,20.5,Cherrim,Fire Flying Poison Ice Bug,421,20,cherrim,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/421.png,grass,cherrim
+493,Flower Gift,Cherrim,20.5,Cherrim,Bug Fire Flying Ice Poison,421,20,cherrim,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/421.png,grass,cherrim
+494,Sticky HoldStorm Drain,Shellos,13.9,Shellos,Grass Electric,422,12,shellos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png,water,shellos
+495,Sticky HoldStorm Drain,Shellos,13.9,Shellos,Electric Grass,422,12,shellos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png,water,shellos
+496,Sticky HoldStorm Drain,Gastrodon,65.9,Gastrodon,Grass,423,35,gastrodon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png,water ground,gastrodon
+497,Sticky HoldStorm Drain,Gastrodon,65.9,Gastrodon,Grass,423,35,gastrodon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png,water ground,gastrodon
+498,PickupTechnician,Ambipom,44.8,Ambipom,Fighting,424,47,ambipom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/424.png,normal,ambipom
+499,AftermathUnburden,Drifloon,2.6,Drifloon,Dark Electric Ghost Ice Rock,425,16,drifloon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/425.png,ghost flying,drifloon
+500,AftermathUnburden,Drifblim,33.1,Drifblim,Dark Electric Ghost Ice Rock,426,47,drifblim,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/426.png,ghost flying,drifblim
+501,KlutzRun Away,Buneary,12.1,Buneary,Fighting,427,16,buneary,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/427.png,normal,buneary
+502,Scrappy,Lopunny,62.4,Lopunny,Psychic Flying Fairy Fighting,428,51,lopunny,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png,normal fighting,lopunny
+503,Cute CharmKlutz,Lopunny,73.4,Lopunny,Fighting,428,47,lopunny,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png,normal,lopunny
+504,Levitate,Mismagius,9.7,Mismagius,Dark Ghost,429,35,mismagius,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/429.png,ghost,mismagius
+505,InsomniaSuper Luck,Honchkrow,60.2,Honchkrow,Electric Ice Rock Fairy,430,35,honchkrow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/430.png,dark flying,honchkrow
+506,LimberOwn Tempo,Glameow,8.6,Glameow,Fighting,431,20,glameow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/431.png,normal,glameow
+507,Own TempoThick Fat,Purugly,96.6,Purugly,Fighting,432,39,purugly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/432.png,normal,purugly
+508,Levitate,Chingling,1.3,Chingling,Bug Dark Ghost,433,8,chingling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/433.png,psychic,chingling
+509,AftermathStench,Stunky,42.3,Stunky,Ground,434,16,stunky,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/434.png,poison dark,stunky
+510,AftermathStench,Skuntank,83.8,Skuntank,Ground,435,39,skuntank,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/435.png,poison dark,skuntank
+511,HeatproofLevitate,Bronzor,133.4,Bronzor,Fire Ground Ghost Dark,436,20,bronzor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/436.png,steel psychic,bronzor
+512,HeatproofLevitate,Bronzong,412.3,Bronzong,Fire Ground Ghost Dark,437,51,bronzong,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/437.png,steel psychic,bronzong
+513,Rock HeadSturdy,Bonsly,33.1,Bonsly,Fighting Grass Ground Steel Water,438,20,bonsly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/438.png,rock,bonsly
+514,FilterSoundproof,Mime Jr.,28.7,Mime Jr.,Ghost Steel Poison,439,24,mime-jr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/439.png,psychic fairy,mime-jr
+515,Natural CureSerene Grace,Happiny,53.8,Happiny,Fighting,440,24,happiny,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/440.png,normal,happiny
+516,Keen EyeTangled Feet,Chatot,4.2,Chatot,Electric Ice Rock,441,20,chatot,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/441.png,normal flying,chatot
+517,Pressure,Spiritomb,238.1,Spiritomb,Fairy,442,39,spiritomb,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/442.png,ghost dark,spiritomb
+518,Sand Veil,Gible,45.2,Gible,Ice Dragon Fairy,443,28,gible,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/443.png,dragon ground,gible
+519,Sand Veil,Gabite,123.5,Gabite,Ice Dragon Fairy,444,55,gabite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/444.png,dragon ground,gabite
+520,Sand Force,Garchomp,209.4,Garchomp,Fairy Ice Dragon,445,75,garchomp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445.png,dragon ground,garchomp
+521,Sand Veil,Garchomp,209.4,Garchomp,Ice Dragon Fairy,445,75,garchomp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445.png,dragon ground,garchomp
+522,PickupThick Fat,Munchlax,231.5,Munchlax,Fighting,446,24,munchlax,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/446.png,normal,munchlax
+523,Inner FocusSteadfast,Riolu,44.5,Riolu,Flying Psychic Fairy,447,28,riolu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/447.png,fighting,riolu
+524,Adaptability,Lucario,126.8,Lucario,Fire Fighting Ground,448,51,lucario,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png,fighting steel,lucario
+525,Inner FocusSteadfast,Lucario,119,Lucario,Fighting Fire Ground,448,47,lucario,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png,fighting steel,lucario
+526,Sand Stream,Hippopotas,109.1,Hippopotas,Grass Ice Water,449,31,hippopotas,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/449.png,ground,hippopotas
+527,Sand Stream,Hippowdon,661.4,Hippowdon,Grass Ice Water,450,79,hippowdon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/450.png,ground,hippowdon
+528,Battle ArmorSniper,Skorupi,26.5,Skorupi,Fire Flying Psychic Rock,451,31,skorupi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/451.png,poison bug,skorupi
+529,Battle ArmorSniper,Drapion,135.6,Drapion,Ground,452,51,drapion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/452.png,poison dark,drapion
+530,AnticipationDry Skin,Croagunk,50.7,Croagunk,Psychic Flying Ground,453,28,croagunk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/453.png,poison fighting,croagunk
+531,AnticipationDry Skin,Toxicroak,97.9,Toxicroak,Psychic Flying Ground,454,51,toxicroak,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/454.png,poison fighting,toxicroak
+532,Levitate,Carnivine,59.5,Carnivine,Bug Fire Flying Ice Poison,455,55,carnivine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/455.png,grass,carnivine
+533,Storm DrainSwift Swim,Finneon,15.4,Finneon,Electric Grass,456,16,finneon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/456.png,water,finneon
+534,Storm DrainSwift Swim,Lumineon,52.9,Lumineon,Electric Grass,457,47,lumineon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/457.png,water,lumineon
+535,Swift SwimWater Absorb,Mantyke,143.3,Mantyke,Electric Rock,458,39,mantyke,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/458.png,water flying,mantyke
+536,Snow Warning,Snover,111.3,Snover,Fire Bug Fighting Flying Poison Rock Steel,459,39,snover,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/459.png,grass ice,snover
+537,Snow Warning,Abomasnow,407.9,Abomasnow,Steel Fire Flying Fighting Poison Rock Bug,460,106,abomasnow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png,grass ice,abomasnow
+538,Snow Warning,Abomasnow,298.7,Abomasnow,Fire Bug Fighting Flying Poison Rock Steel,460,87,abomasnow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png,grass ice,abomasnow
+539,Pressure,Weavile,75,Weavile,Fighting Bug Fire Rock Steel Fairy,461,43,weavile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/461.png,dark ice,weavile
+540,Magnet PullSturdy,Magnezone,396.8,Magnezone,Ground Fire Fighting,462,47,magnezone,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/462.png,electric steel,magnezone
+541,ObliviousOwn Tempo,Lickilicky,308.6,Lickilicky,Fighting,463,67,lickilicky,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/463.png,normal,lickilicky
+542,Lightning RodSolid Rock,Rhyperior,623.5,Rhyperior,Grass Water Fighting Ground Ice Steel,464,94,rhyperior,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/464.png,ground rock,rhyperior
+543,ChlorophyllLeaf Guard,Tangrowth,283.5,Tangrowth,Bug Fire Flying Ice Poison,465,79,tangrowth,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/465.png,grass,tangrowth
+544,Motor Drive,Electivire,305.6,Electivire,Ground,466,71,electivire,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/466.png,electric,electivire
+545,Flame Body,Magmortar,149.9,Magmortar,Ground Rock Water,467,63,magmortar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/467.png,fire,magmortar
+546,HustleSerene Grace,Togekiss,83.8,Togekiss,Electric Ice Rock Steel Poison,468,59,togekiss,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/468.png,fairy flying,togekiss
+547,Speed BoostTinted Lens,Yanmega,113.5,Yanmega,Rock Electric Fire Flying Ice,469,75,yanmega,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/469.png,bug flying,yanmega
+548,Leaf Guard,Leafeon,56.2,Leafeon,Bug Fire Flying Ice Poison,470,39,leafeon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/470.png,grass,leafeon
+549,Snow Cloak,Glaceon,57.1,Glaceon,Fire Fighting Rock Steel,471,31,glaceon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/471.png,ice,glaceon
+550,Hyper CutterSand Veil,Gliscor,93.7,Gliscor,Ice Water,472,79,gliscor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/472.png,ground flying,gliscor
+551,ObliviousSnow Cloak,Mamoswine,641.5,Mamoswine,Fighting Fire Grass Steel Water,473,98,mamoswine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/473.png,ice ground,mamoswine
+552,AdaptabilityDownload,Porygon-Z,75,Porygon-Z,Fighting,474,35,porygon-z,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/474.png,normal,porygon-z
+553,Inner Focus,Gallade,124.3,Gallade,Ghost Flying Fairy,475,63,gallade,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475.png,psychic fighting,gallade
+554,Steadfast,Gallade,114.6,Gallade,Flying Ghost Fairy,475,63,gallade,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475.png,psychic fighting,gallade
+555,Magnet PullSturdy,Probopass,749.6,Probopass,Fighting Ground Water,476,55,probopass,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/476.png,rock steel,probopass
+556,Pressure,Dusknoir,235,Dusknoir,Dark Ghost,477,87,dusknoir,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/477.png,ghost,dusknoir
+557,Snow Cloak,Froslass,58.6,Froslass,Dark Fire Ghost Rock Steel,478,51,froslass,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/478.png,ice ghost,froslass
+558,Levitate,Rotom,0.7,Rotom,Fire Poison Ice Bug,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric grass,rotom
+559,Levitate,Rotom,0.7,Rotom,Rock Ice,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric flying,rotom
+560,Levitate,Rotom,0.7,Rotom,Fire Rock Fighting,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric ice,rotom
+561,Levitate,Rotom,0.7,Rotom,Grass,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric water,rotom
+562,Levitate,Rotom,0.7,Rotom,Water Rock,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric fire,rotom
+563,Levitate,Rotom,0.7,Rotom,Ghost Dark,479,12,rotom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png,electric ghost,rotom
+564,Levitate,Uxie,0.7,Uxie,Bug Dark Ghost,480,12,uxie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/480.png,psychic,uxie
+565,Levitate,Mesprit,0.7,Mesprit,Bug Dark Ghost,481,12,mesprit,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/481.png,psychic,mesprit
+566,Levitate,Azelf,0.7,Azelf,Bug Dark Ghost,482,12,azelf,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/482.png,psychic,azelf
+567,Pressure,Dialga,1505.8,Dialga,Fighting Ground,483,213,dialga,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/483.png,steel dragon,dialga
+568,Pressure,Palkia,740.8,Palkia,Dragon Fairy,484,165,palkia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png,water dragon,palkia
+569,Flash Fire,Heatran,948,Heatran,Ground Fighting Water,485,67,heatran,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/485.png,fire steel,heatran
+570,Slow Start,Regigigas,925.9,Regigigas,Fighting,486,146,regigigas,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/486.png,normal,regigigas
+571,Levitate,Giratina,1433,Giratina,Dark Dragon Ghost Ice Fairy,487,272,giratina,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png,ghost dragon,giratina
+572,Pressure,Giratina,1653.5,Giratina,Dark Dragon Ghost Ice Fairy,487,177,giratina,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png,ghost dragon,giratina
+573,Levitate,Cresselia,188.7,Cresselia,Bug Dark Ghost,488,59,cresselia,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/488.png,psychic,cresselia
+574,Hydration,Phione,6.8,Phione,Electric Grass,489,16,phione,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/489.png,water,phione
+575,Hydration,Manaphy,3.1,Manaphy,Electric Grass,490,12,manaphy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/490.png,water,manaphy
+576,Bad Dreams,Darkrai,111.3,Darkrai,Fighting Bug Fairy,491,59,darkrai,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/491.png,dark,darkrai
+577,Serene Grace,Shaymin,11.5,Shaymin,Fire Flying Ice Poison Rock,492,16,shaymin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png,grass flying,shaymin
+578,Natural Cure,Shaymin,4.6,Shaymin,Bug Fire Flying Ice Poison,492,8,shaymin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png,grass,shaymin
+579,Multitype,Arceus,705.5,Arceus,Steel Poison,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,fairy,arceus
+580,Multitype,Arceus,705.5,Arceus,Fairy Bug Fighting,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,dark,arceus
+581,Multitype,Arceus,705.5,Arceus,Fairy Ice Dragon,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,dragon,arceus
+582,Multitype,Arceus,705.5,Arceus,Fire Steel Fighting Rock,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,ice,arceus
+583,Multitype,Arceus,705.5,Arceus,Ghost Dark Bug,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,psychic,arceus
+584,Multitype,Arceus,705.5,Arceus,Ground,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,electric,arceus
+585,Multitype,Arceus,705.5,Arceus,Fire Flying Poison Ice Bug,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,grass,arceus
+586,Multitype,Arceus,705.5,Arceus,Grass Electric,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,water,arceus
+587,Multitype,Arceus,705.5,Arceus,Water Rock Ground,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,fire,arceus
+588,Multitype,Arceus,705.5,Arceus,Fire Fighting Ground,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,steel,arceus
+589,Multitype,Arceus,705.5,Arceus,Ghost Dark,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,ghost,arceus
+590,Multitype,Arceus,705.5,Arceus,Fire Flying Rock,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,bug,arceus
+591,Multitype,Arceus,705.5,Arceus,Water Steel Grass Fighting Ground,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,rock,arceus
+592,Multitype,Arceus,705.5,Arceus,Water Grass Ice,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,ground,arceus
+593,Multitype,Arceus,705.5,Arceus,Psychic Ground,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,poison,arceus
+594,Multitype,Arceus,705.5,Arceus,Electric Ice Rock,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,flying,arceus
+595,Multitype,Arceus,705.5,Arceus,Psychic Flying Fairy,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,fighting,arceus
+596,Multitype,Arceus,705.5,Arceus,Fighting,493,126,arceus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png,normal,arceus
+597,Victory Star,Victini,8.8,Victini,Water Ground Rock Ghost Dark,494,16,victini,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/494.png,psychic fire,victini
+598,Overgrow,Snivy,17.9,Snivy,Fire Ice Poison Flying Bug,495,24,snivy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/495.png,grass,snivy
+599,Overgrow,Servine,35.3,Servine,Fire Ice Poison Flying Bug,496,31,servine,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/496.png,grass,servine
+600,Overgrow,Serperior,138.9,Serperior,Fire Ice Poison Flying Bug,497,130,serperior,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/497.png,grass,serperior
+601,Blaze,Tepig,21.8,Tepig,Water Ground Rock,498,20,tepig,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/498.png,fire,tepig
+602,Blaze,Pignite,122.4,Pignite,Water Ground Flying Psychic,499,39,pignite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/499.png,fire fighting,pignite
+603,Blaze,Emboar,330.7,Emboar,Water Ground Flying Psychic,500,63,emboar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/500.png,fire fighting,emboar
+604,Torrent,Oshawott,13,Oshawott,Grass Electric,501,20,oshawott,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/501.png,water,oshawott
+605,Torrent,Dewott,54,Dewott,Grass Electric,502,31,dewott,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/502.png,water,dewott
+606,Torrent,Samurott,208.6,Samurott,Grass Electric,503,59,samurott,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/503.png,water,samurott
+607,Keen EyeRun Away,Patrat,25.6,Patrat,Fighting,504,20,patrat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/504.png,normal,patrat
+608,IlluminateKeen Eye,Watchog,59.5,Watchog,Fighting,505,43,watchog,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/505.png,normal,watchog
+609,PickupVital Spirit,Lillipup,9,Lillipup,Fighting,506,16,lillipup,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/506.png,normal,lillipup
+610,IntimidateSand Rush,Herdier,32.4,Herdier,Fighting,507,35,herdier,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/507.png,normal,herdier
+611,IntimidateSand Rush,Stoutland,134.5,Stoutland,Fighting,508,47,stoutland,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/508.png,normal,stoutland
+612,LimberUnburden,Purrloin,22.3,Purrloin,Fighting Bug Fairy,509,16,purrloin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/509.png,dark,purrloin
+613,LimberUnburden,Liepard,82.7,Liepard,Fighting Bug Fairy,510,43,liepard,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/510.png,dark,liepard
+614,Gluttony,Pansage,23.1,Pansage,Fire Ice Poison Flying Bug,511,24,pansage,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/511.png,grass,pansage
+615,Gluttony,Simisage,67.2,Simisage,Fire Ice Poison Flying Bug,512,43,simisage,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/512.png,grass,simisage
+616,Gluttony,Pansear,24.3,Pansear,Water Ground Rock,513,24,pansear,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/513.png,fire,pansear
+617,Gluttony,Simisear,61.7,Simisear,Water Ground Rock,514,39,simisear,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/514.png,fire,simisear
+618,Gluttony,Panpour,29.8,Panpour,Grass Electric,515,24,panpour,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/515.png,water,panpour
+619,Gluttony,Simipour,63.9,Simipour,Grass Electric,516,39,simipour,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/516.png,water,simipour
+620,ForewarnSynchronize,Munna,51.4,Munna,Bug Ghost Dark,517,24,munna,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/517.png,psychic,munna
+621,ForewarnSynchronize,Musharna,133.4,Musharna,Bug Ghost Dark,518,43,musharna,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/518.png,psychic,musharna
+622,Big PecksSuper Luck,Pidove,4.6,Pidove,Electric Ice Rock,519,12,pidove,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/519.png,normal flying,pidove
+623,Big PecksSuper Luck,Tranquill,33.1,Tranquill,Electric Ice Rock,520,24,tranquill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/520.png,normal flying,tranquill
+624,Big PecksSuper Luck,Unfezant,63.9,Unfezant,Electric Ice Rock,521,47,unfezant,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/521.png,normal flying,unfezant
+625,Lightning RodMotor Drive,Blitzle,65.7,Blitzle,Ground,522,31,blitzle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/522.png,electric,blitzle
+626,Lightning RodMotor Drive,Zebstrika,175.3,Zebstrika,Ground,523,63,zebstrika,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/523.png,electric,zebstrika
+627,Sturdy,Roggenrola,39.7,Roggenrola,Water Grass Fighting Ground Steel,524,16,roggenrola,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/524.png,rock,roggenrola
+628,Sturdy,Boldore,224.9,Boldore,Water Grass Fighting Ground Steel,525,35,boldore,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/525.png,rock,boldore
+629,Sturdy,Gigalith,573.2,Gigalith,Water Grass Fighting Ground Steel,526,67,gigalith,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/526.png,rock,gigalith
+630,KlutzUnaware,Woobat,4.6,Woobat,Electric Ice Rock Ghost Dark,527,16,woobat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/527.png,psychic flying,woobat
+631,KlutzUnaware,Swoobat,23.1,Swoobat,Electric Ice Rock Ghost Dark,528,35,swoobat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/528.png,psychic flying,swoobat
+632,Sand ForceSand Rush,Drilbur,18.7,Drilbur,Water Grass Ice,529,12,drilbur,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/529.png,ground,drilbur
+633,Sand ForceSand Rush,Excadrill,89.1,Excadrill,Fire Water Fighting Ground,530,28,excadrill,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/530.png,ground steel,excadrill
+634,Healer,Audino,70.5,Audino,Steel Poison,531,59,audino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531.png,normal fairy,audino
+635,HealerRegenerator,Audino,68.3,Audino,Fighting,531,43,audino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531.png,normal,audino
+636,GutsSheer Force,Timburr,27.6,Timburr,Flying Psychic Fairy,532,24,timburr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/532.png,fighting,timburr
+637,GutsSheer Force,Gurdurr,88.2,Gurdurr,Flying Psychic Fairy,533,47,gurdurr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/533.png,fighting,gurdurr
+638,GutsSheer Force,Conkeldurr,191.8,Conkeldurr,Flying Psychic Fairy,534,55,conkeldurr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/534.png,fighting,conkeldurr
+639,HydrationSwift Swim,Tympole,9.9,Tympole,Grass Electric,535,20,tympole,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/535.png,water,tympole
+640,HydrationSwift Swim,Palpitoad,37.5,Palpitoad,Grass,536,31,palpitoad,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/536.png,water ground,palpitoad
+641,Poison TouchSwift Swim,Seismitoad,136.7,Seismitoad,Grass,537,59,seismitoad,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/537.png,water ground,seismitoad
+642,GutsInner Focus,Throh,122.4,Throh,Flying Psychic Fairy,538,51,throh,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/538.png,fighting,throh
+643,Inner FocusSturdy,Sawk,112.4,Sawk,Flying Psychic Fairy,539,55,sawk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/539.png,fighting,sawk
+644,ChlorophyllSwarm,Sewaddle,5.5,Sewaddle,Fire Flying Ice Poison Bug Rock,540,12,sewaddle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/540.png,bug grass,sewaddle
+645,ChlorophyllLeaf Guard,Swadloon,16.1,Swadloon,Fire Flying Ice Poison Bug Rock,541,20,swadloon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/541.png,bug grass,swadloon
+646,ChlorophyllSwarm,Leavanny,45.2,Leavanny,Fire Flying Ice Poison Bug Rock,542,47,leavanny,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/542.png,bug grass,leavanny
+647,Poison PointSwarm,Venipede,11.7,Venipede,Fire Flying Psychic Rock,543,16,venipede,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/543.png,bug poison,venipede
+648,Poison PointSwarm,Whirlipede,129,Whirlipede,Fire Flying Rock Psychic,544,47,whirlipede,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/544.png,bug poison,whirlipede
+649,Poison PointSwarm,Scolipede,442,Scolipede,Fire Flying Psychic Rock,545,98,scolipede,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/545.png,bug poison,scolipede
+650,InfiltratorPrankster,Cottonee,1.3,Cottonee,Fire Ice Poison Flying Steel,546,12,cottonee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/546.png,grass fairy,cottonee
+651,InfiltratorPrankster,Whimsicott,14.6,Whimsicott,Fire Ice Poison Flying Steel,547,28,whimsicott,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/547.png,grass fairy,whimsicott
+652,ChlorophyllOwn Tempo,Petilil,14.6,Petilil,Fire Ice Poison Flying Bug,548,20,petilil,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/548.png,grass,petilil
+653,ChlorophyllOwn Tempo,Lilligant,35.9,Lilligant,Fire Ice Poison Flying Bug,549,43,lilligant,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/549.png,grass,lilligant
+654,AdaptabilityRock Head,Basculin,39.7,Basculin,Grass Electric,550,39,basculin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/550.png,water,basculin
+655,AdaptabilityReckless,Basculin,39.7,Basculin,Grass Electric,550,39,basculin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/550.png,water,basculin
+656,IntimidateMoxie,Sandile,33.5,Sandile,Water Grass Ice Fighting Bug Fairy,551,28,sandile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/551.png,ground dark,sandile
+657,IntimidateMoxie,Krokorok,73.6,Krokorok,Water Grass Ice Fighting Bug Fairy,552,39,krokorok,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/552.png,ground dark,krokorok
+658,IntimidateMoxie,Krookodile,212.3,Krookodile,Water Grass Ice Fighting Bug Fairy,553,59,krookodile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/553.png,ground dark,krookodile
+659,Hustle,Darumaka,82.7,Darumaka,Water Ground Rock,554,24,darumaka,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/554.png,fire,darumaka
+660,Sheer Force,Darmanitan,204.8,Darmanitan,Ghost Dark Water Rock Ground,555,51,darmanitan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png,fire psychic,darmanitan
+661,Sheer Force,Darmanitan,204.8,Darmanitan,Water Ground Rock,555,51,darmanitan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png,fire,darmanitan
+662,ChlorophyllWater Absorb,Maractus,61.7,Maractus,Fire Ice Poison Flying Bug,556,39,maractus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/556.png,grass,maractus
+663,Shell ArmorSturdy,Dwebble,32,Dwebble,Water Rock Steel,557,12,dwebble,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/557.png,bug rock,dwebble
+664,Shell ArmorSturdy,Crustle,440.9,Crustle,Water Rock Steel,558,55,crustle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/558.png,bug rock,crustle
+665,MoxieShed Skin,Scraggy,26,Scraggy,Fighting Flying Fairy,559,24,scraggy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/559.png,dark fighting,scraggy
+666,MoxieShed Skin,Scrafty,66.1,Scrafty,Fighting Flying Fairy,560,43,scrafty,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/560.png,dark fighting,scrafty
+667,Magic GuardWonder Skin,Sigilyph,30.9,Sigilyph,Electric Ice Rock Ghost Dark,561,55,sigilyph,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/561.png,psychic flying,sigilyph
+668,Mummy,Yamask,3.3,Yamask,Ghost Dark,562,20,yamask,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/562.png,ghost,yamask
+669,Mummy,Cofagrigus,168.7,Cofagrigus,Ghost Dark,563,67,cofagrigus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/563.png,ghost,cofagrigus
+670,Solid RockSturdy,Tirtouga,36.4,Tirtouga,Grass Electric Fighting Ground,564,28,tirtouga,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/564.png,water rock,tirtouga
+671,Solid RockSturdy,Carracosta,178.6,Carracosta,Grass Electric Fighting Ground,565,47,carracosta,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/565.png,water rock,carracosta
+672,Defeatist,Archen,20.9,Archen,Water Electric Ice Rock Steel,566,20,archen,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/566.png,rock flying,archen
+673,Defeatist,Archeops,70.5,Archeops,Water Electric Ice Rock Steel,567,55,archeops,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/567.png,rock flying,archeops
+674,StenchSticky Hold,Trubbish,68.3,Trubbish,Ground Psychic,568,24,trubbish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/568.png,poison,trubbish
+675,StenchWeak Armor,Garbodor,236.6,Garbodor,Ground Psychic,569,75,garbodor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/569.png,poison,garbodor
+676,Illusion,Zorua,27.6,Zorua,Fighting Bug Fairy,570,28,zorua,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/570.png,dark,zorua
+677,Illusion,Zoroark,178.8,Zoroark,Fighting Bug Fairy,571,63,zoroark,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/571.png,dark,zoroark
+678,Cute CharmTechnician,Minccino,12.8,Minccino,Fighting,572,16,minccino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/572.png,normal,minccino
+679,Cute CharmTechnician,Cinccino,16.5,Cinccino,Fighting,573,20,cinccino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/573.png,normal,cinccino
+680,CompetitiveFrisk,Gothita,12.8,Gothita,Bug Ghost Dark,574,16,gothita,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/574.png,psychic,gothita
+681,CompetitiveFrisk,Gothorita,39.7,Gothorita,Bug Ghost Dark,575,28,gothorita,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/575.png,psychic,gothorita
+682,CompetitiveFrisk,Gothitelle,97,Gothitelle,Bug Ghost Dark,576,59,gothitelle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/576.png,psychic,gothitelle
+683,Magic GuardOvercoat,Solosis ,2.2,Solosis ,Bug Ghost Dark,577,12,solosis,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/577.png,psychic,solosis
+684,Magic GuardOvercoat,Duosion,17.6,Duosion,Bug Ghost Dark,578,24,duosion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/578.png,psychic,duosion
+685,Magic GuardOvercoat,Reuniclus,44.3,Reuniclus,Bug Ghost Dark,579,39,reuniclus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/579.png,psychic,reuniclus
+686,Big PecksKeen Eye,Ducklett,12.1,Ducklett,Electric Rock,580,20,ducklett,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/580.png,water flying,ducklett
+687,Big PecksKeen Eye,Swanna,53.4,Swanna,Electric Rock,581,51,swanna,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/581.png,water flying,swanna
+688,Ice Body,Vanillite,12.6,Vanillite,Fire Fighting Rock Steel,582,16,vanillite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/582.png,ice,vanillite
+689,Ice Body,Vanillish,90.4,Vanillish,Fire Fighting Rock Steel,583,43,vanillish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/583.png,ice,vanillish
+690,Ice Body,Vanilluxe,126.8,Vanilluxe,Fire Fighting Rock Steel,584,51,vanilluxe,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/584.png,ice,vanilluxe
+691,ChlorophyllSap Sipper,Deerling,43,Deerling,Fire Flying Fighting Poison Ice Bug,585,24,deerling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png,normal grass,deerling
+692,ChlorophyllSap Sipper,Deerling,43,Deerling,Fire Flying Fighting Poison Ice Bug,585,24,deerling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png,normal grass,deerling
+693,ChlorophyllSap Sipper,Deerling,43,Deerling,Fire Flying Fighting Poison Ice Bug,585,24,deerling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png,normal grass,deerling
+694,ChlorophyllSap Sipper,Deerling,43,Deerling,Fire Ice Fighting Poison Flying Bug,585,24,deerling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png,normal grass,deerling
+695,ChlorophyllSap Sipper,Sawsbuck,203.9,Sawsbuck,Fire Flying Fighting Poison Ice Bug,586,75,sawsbuck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png,normal grass,sawsbuck
+696,ChlorophyllSap Sipper,Sawsbuck,203.9,Sawsbuck,Fire Flying Fighting Poison Ice Bug,586,75,sawsbuck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png,normal grass,sawsbuck
+697,ChlorophyllSap Sipper,Sawsbuck,203.9,Sawsbuck,Fire Flying Fighting Poison Ice Bug,586,75,sawsbuck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png,normal grass,sawsbuck
+698,ChlorophyllSap Sipper,Sawsbuck,203.9,Sawsbuck,Fire Ice Fighting Poison Flying Bug,586,75,sawsbuck,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png,normal grass,sawsbuck
+699,Static,Emolga,11,Emolga,Ice Rock,587,16,emolga,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/587.png,electric flying,emolga
+700,Shed SkinSwarm,Karrablast,13,Karrablast,Fire Flying Rock,588,20,karrablast,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/588.png,bug,karrablast
+701,Shell ArmorSwarm,Escavalier,72.8,Escavalier,Fire,589,39,escavalier,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/589.png,bug steel,escavalier
+702,Effect Spore,Foongus,2.2,Foongus,Fire Ice Flying Psychic,590,8,foongus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/590.png,grass poison,foongus
+703,Effect Spore,Amoonguss,23.1,Amoonguss,Fire Ice Flying Psychic,591,24,amoonguss,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/591.png,grass poison,amoonguss
+704,Cursed BodyWater Absorb,Frillish,72.8,Frillish,Grass Electric Ghost Dark,592,47,frillish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/592.png,water ghost,frillish
+705,Cursed BodyWater Absorb,Jellicent,297.6,Jellicent,Grass Electric Ghost Dark,593,87,jellicent,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/593.png,water ghost,jellicent
+706,HealerHydration,Alomomola,69.7,Alomomola,Grass Electric,594,47,alomomola,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/594.png,water,alomomola
+707,Compound EyesUnnerve,Joltik,1.3,Joltik,Fire Rock,595,4,joltik,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/595.png,bug electric,joltik
+708,Compound EyesUnnerve,Galvantula,31.5,Galvantula,Fire Rock,596,31,galvantula,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/596.png,bug electric,galvantula
+709,Iron Barbs,Ferroseed,41.4,Ferroseed,Fire Fighting,597,24,ferroseed,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/597.png,grass steel,ferroseed
+710,Iron Barbs,Ferrothorn,242.5,Ferrothorn,Fire Fighting,598,39,ferrothorn,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/598.png,grass steel,ferrothorn
+711,MinusPlus,Klink,46.3,Klink,Fire Fighting Ground,599,12,klink,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/599.png,steel,klink
+712,MinusPlus,Klang,112.4,Klang,Fire Fighting Ground,600,24,klang,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/600.png,steel,klang
+713,MinusPlus,Klinklang,178.6,Klinklang,Fire Fighting Ground,601,24,klinklang,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/601.png,steel,klinklang
+714,Levitate,Tynamo,0.7,Tynamo,,602,8,tynamo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/602.png,electric,tynamo
+715,Levitate,Eelektrik,48.5,Eelektrik,,603,47,eelektrik,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/603.png,electric,eelektrik
+716,Levitate,Eelektross,177.5,Eelektross,,604,83,eelektross,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/604.png,electric,eelektross
+717,SynchronizeTelepathy,Elgyem,19.8,Elgyem,Bug Ghost Dark,605,20,elgyem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/605.png,psychic,elgyem
+718,SynchronizeTelepathy,Beheeyem,76.1,Beheeyem,Bug Ghost Dark,606,39,beheeyem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/606.png,psychic,beheeyem
+719,Flame BodyFlash Fire,Litwick,6.8,Litwick,Water Ground Rock Ghost Dark,607,12,litwick,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/607.png,ghost fire,litwick
+720,Flame BodyFlash Fire,Lampent,28.7,Lampent,Water Ground Rock Ghost Dark,608,24,lampent,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/608.png,ghost fire,lampent
+721,Flame BodyFlash Fire,Chandelure,75.6,Chandelure,Water Ground Rock Ghost Dark,609,39,chandelure,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/609.png,ghost fire,chandelure
+722,Mold BreakerRivalry,Axew,39.7,Axew,Ice Dragon Fairy,610,24,axew,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/610.png,dragon,axew
+723,Mold BreakerRivalry,Fraxure,79.4,Fraxure,Ice Dragon Fairy,611,39,fraxure,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/611.png,dragon,fraxure
+724,Mold BreakerRivalry,Haxorus,232.6,Haxorus,Ice Dragon Fairy,612,71,haxorus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/612.png,dragon,haxorus
+725,Snow Cloak,Cubchoo,18.7,Cubchoo,Fire Fighting Rock Steel,613,20,cubchoo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/613.png,ice,cubchoo
+726,Snow Cloak,Beartic,573.2,Beartic,Fire Fighting Rock Steel,614,102,beartic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/614.png,ice,beartic
+727,Levitate,Cryogonal,326.3,Cryogonal,Fire Fighting Rock Steel,615,43,cryogonal,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/615.png,ice,cryogonal
+728,HydrationShell Armor,Shelmet,17,Shelmet,Fire Flying Rock,616,16,shelmet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/616.png,bug,shelmet
+729,HydrationSticky Hold,Accelgor,55.8,Accelgor,Fire Flying Rock,617,31,accelgor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/617.png,bug,accelgor
+730,LimberStatic,Stunfisk,24.3,Stunfisk,Water Grass Ice Ground,618,28,stunfisk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/618.png,ground electric,stunfisk
+731,Inner FocusRegenerator,Mienfoo,44.1,Mienfoo,Flying Psychic Fairy,619,35,mienfoo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/619.png,fighting,mienfoo
+732,Inner FocusRegenerator,Mienshao,78.3,Mienshao,Flying Psychic Fairy,620,55,mienshao,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/620.png,fighting,mienshao
+733,Rough SkinSheer Force,Druddigon,306.4,Druddigon,Ice Dragon Fairy,621,63,druddigon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/621.png,dragon,druddigon
+734,Iron FistKlutz,Golett,202.8,Golett,Water Grass Ice Ghost Dark,622,39,golett,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/622.png,ground ghost,golett
+735,Iron FistKlutz,Golurk,727.5,Golurk,Water Grass Ice Ghost Dark,623,110,golurk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/623.png,ground ghost,golurk
+736,DefiantInner Focus,Pawniard,22.5,Pawniard,Fighting Fire Ground,624,20,pawniard,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/624.png,dark steel,pawniard
+737,DefiantInner Focus,Bisharp,154.3,Bisharp,Fighting Fire Ground,625,63,bisharp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/625.png,dark steel,bisharp
+738,RecklessSap Sipper,Bouffalant,208.6,Bouffalant,Fighting,626,63,bouffalant,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/626.png,normal,bouffalant
+739,Keen EyeSheer Force,Rufflet,23.1,Rufflet,Electric Ice Rock,627,20,rufflet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/627.png,normal flying,rufflet
+740,Keen EyeSheer Force,Braviary,90.4,Braviary,Electric Ice Rock,628,59,braviary,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/628.png,normal flying,braviary
+741,Big PecksOvercoat,Vullaby,19.8,Vullaby,Electric Ice Rock Fairy,629,20,vullaby,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/629.png,dark flying,vullaby
+742,Big PecksOvercoat,Mandibuzz,87.1,Mandibuzz,Electric Ice Rock Fairy,630,47,mandibuzz,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/630.png,dark flying,mandibuzz
+743,Flash FireGluttony,Heatmor,127.9,Heatmor,Water Ground Rock,631,55,heatmor,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/631.png,fire,heatmor
+744,HustleSwarm,Durant,72.8,Durant,Fire,632,12,durant,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/632.png,bug steel,durant
+745,Hustle,Deino,38.1,Deino,Ice Fighting Bug Dragon Fairy,633,31,deino,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/633.png,dark dragon,deino
+746,Hustle,Zweilous,110.2,Zweilous,Ice Fighting Bug Dragon Fairy,634,55,zweilous,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/634.png,dark dragon,zweilous
+747,Levitate,Hydreigon,352.7,Hydreigon,Ice Fighting Bug Dragon Fairy,635,71,hydreigon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/635.png,dark dragon,hydreigon
+748,Flame Body,Larvesta,63.5,Larvesta,Rock Water Flying,636,43,larvesta,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/636.png,bug fire,larvesta
+749,Flame Body,Volcarona,101.4,Volcarona,Rock Water Flying,637,63,volcarona,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/637.png,bug fire,volcarona
+750,Justified,Cobalion,551.2,Cobalion,Fire Fighting Ground,638,83,cobalion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/638.png,steel fighting,cobalion
+751,Justified,Terrakion,573.2,Terrakion,Water Grass Fighting Ground Steel Psychic Fairy,639,75,terrakion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/639.png,rock fighting,terrakion
+752,Justified,Virizion,440.9,Virizion,Flying Fire Ice Poison Psychic Fairy,640,79,virizion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/640.png,grass fighting,virizion
+753,Regenerator,Tornadus,138.9,Tornadus,Rock Electric Ice,641,55,tornadus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png,flying,tornadus
+754,Prankster,Tornadus,138.9,Tornadus,Electric Ice Rock,641,59,tornadus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png,flying,tornadus
+755,Volt Absorb,Thundurus,134.5,Thundurus,Rock Ice,642,118,thundurus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png,electric flying,thundurus
+756,Prankster,Thundurus,134.5,Thundurus,Ice Rock,642,59,thundurus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png,electric flying,thundurus
+757,Turboblaze,Reshiram,727.5,Reshiram,Ground Rock Dragon,643,126,reshiram,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png,dragon fire,reshiram
+758,Teravolt,Zekrom,760.6,Zekrom,Ice Ground Dragon Fairy,644,114,zekrom,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png,dragon electric,zekrom
+759,Intimidate,Landorus,149.9,Landorus,Water Ice,645,51,landorus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png,ground flying,landorus
+760,Sand Force,Landorus,149.9,Landorus,Ice Water,645,59,landorus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png,ground flying,landorus
+761,Teravolt,Kyurem,716.5,Kyurem,Fighting Rock Dragon Steel Fairy,646,130,kyurem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png,dragon ice,kyurem
+762,Turboblaze,Kyurem,716.5,Kyurem,Fighting Rock Dragon Steel Fairy,646,142,kyurem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png,dragon ice,kyurem
+763,Pressure,Kyurem,716.5,Kyurem,Fighting Rock Dragon Steel Fairy,646,118,kyurem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png,dragon ice,kyurem
+764,Justified,Keldeo,106.9,Keldeo,Flying Grass Electric Fairy Psychic,647,55,keldeo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png,water fighting,keldeo
+765,Justified,Keldeo,106.9,Keldeo,Flying Grass Electric Fairy Psychic,647,55,keldeo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png,water fighting,keldeo
+766,Serene Grace,Meloetta,14.3,Meloetta,Psychic Flying Fairy Fighting,648,24,meloetta,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png,normal fighting,meloetta
+767,Serene Grace,Meloetta,14.3,Meloetta,Bug Dark,648,24,meloetta,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png,normal psychic,meloetta
+768,Download,Genesect,181.9,Genesect,Fire,649,59,genesect,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/649.png,bug steel,genesect
+769,Overgrow,Chespin,19.8,Chespin,Fire Flying Poison Ice Bug,650,16,chespin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png,grass,chespin
+770,Overgrow,Quilladin,63.9,Quilladin,Fire Flying Poison Ice Bug,651,28,quilladin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/651.png,grass,quilladin
+771,Overgrow,Chesnaught,198.4,Chesnaught,Fire Psychic Flying Poison Ice Fairy,652,63,chesnaught,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/652.png,grass fighting,chesnaught
+772,Blaze,Fennekin,20.7,Fennekin,Water Rock Ground,653,16,fennekin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/653.png,fire,fennekin
+773,Blaze,Braixen,32,Braixen,Water Rock Ground,654,39,braixen,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/654.png,fire,braixen
+774,Blaze,Delphox,86,Delphox,Ghost Dark Water Rock Ground,655,59,delphox,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/655.png,fire psychic,delphox
+775,Torrent,Froakie,15.4,Froakie,Grass Electric,656,12,froakie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/656.png,water,froakie
+776,Torrent,Frogadier,24,Frogadier,Grass Electric,657,24,frogadier,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/657.png,water,frogadier
+777,Battle Bond,Greninja,88.2,Greninja,Fairy Grass Electric Fighting Bug,658,59,greninja,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png,water dark,greninja
+778,Torrent,Greninja,88.2,Greninja,Fairy Grass Electric Fighting Bug,658,59,greninja,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png,water dark,greninja
+779,Cheek PouchPickup,Bunnelby,11,Bunnelby,Fighting,659,16,bunnelby,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/659.png,normal,bunnelby
+780,Cheek PouchPickup,Diggersby,93.5,Diggersby,Water Grass Ice Fighting,660,39,diggersby,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/660.png,normal ground,diggersby
+781,Big Pecks,Fletchling,3.7,Fletchling,Ice Electric Rock,661,12,fletchling,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/661.png,normal flying,fletchling
+782,Flame Body,Fletchinder,35.3,Fletchinder,Water Rock Electric,662,28,fletchinder,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/662.png,fire flying,fletchinder
+783,Flame Body,Talonflame,54,Talonflame,Water Rock Electric,663,47,talonflame,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/663.png,fire flying,talonflame
+784,Compound EyesShield Dust,Scatterbug,5.5,Scatterbug,Fire Flying Rock,664,12,scatterbug,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/664.png,bug,scatterbug
+785,Shed Skin,Spewpa,18.5,Spewpa,Fire Flying Rock,665,12,spewpa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/665.png,bug,spewpa
+786,Compound EyesShield Dust,Vivillon,37.5,Vivillon,Fire Flying Electric Ice Rock,666,47,vivillon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/666.png,bug flying,vivillon
+787,RivalryUnnerve,Litleo,29.8,Litleo,Rock Water Fighting Ground,667,24,litleo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/667.png,fire normal,litleo
+788,RivalryUnnerve,Pyroar,179.7,Pyroar,Water Rock Fighting Ground,668,59,pyroar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png,fire normal,pyroar
+789,RivalryUnnerve,Pyroar,179.7,Pyroar,Water Rock Fighting Ground,668,59,pyroar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png,fire normal,pyroar
+790,Flower Veil,Flabébé,0.2,Flabébé,Steel Poison,669,4,flabebe,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/669.png,fairy,flabebe
+791,Flower Veil,Floette,2,Floette,Steel Poison,670,8,floette,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/670.png,fairy,floette
+792,Flower Veil,Florges,22,Florges,Steel Poison,671,43,florges,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/671.png,fairy,florges
+793,Sap Sipper,Skiddo,68.3,Skiddo,Fire Flying Poison Ice Bug,672,35,skiddo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/672.png,grass,skiddo
+794,Sap Sipper,Gogoat,200.6,Gogoat,Fire Flying Poison Ice Bug,673,67,gogoat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/673.png,grass,gogoat
+795,Iron FistMold Breaker,Pancham,17.6,Pancham,Psychic Flying Fairy,674,24,pancham,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/674.png,fighting,pancham
+796,Iron FistMold Breaker,Pangoro,299.8,Pangoro,Flying Fairy Fighting,675,83,pangoro,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/675.png,fighting dark,pangoro
+797,Fur Coat,Furfrou,61.7,Furfrou,Fighting,676,47,furfrou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png,normal,furfrou
+798,Fur Coat,Furfrou,61.7,Furfrou,Fighting,676,47,furfrou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png,normal,furfrou
+799,Fur Coat,Furfrou,61.7,Furfrou,Fighting,676,47,furfrou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png,normal,furfrou
+800,Fur Coat,Furfrou,61.7,Furfrou,Fighting,676,47,furfrou,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png,normal,furfrou
+801,InfiltratorKeen Eye,Espurr,7.7,Espurr,Ghost Dark Bug,677,12,espurr,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/677.png,psychic,espurr
+802,InfiltratorKeen Eye,Meowstic,18.7,Meowstic,Ghost Dark Bug,678,24,meowstic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png,psychic,meowstic
+803,InfiltratorKeen Eye,Meowstic,18.7,Meowstic,Ghost Dark Bug,678,24,meowstic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png,psychic,meowstic
+804,No Guard,Honedge,4.4,Honedge,Fire Ghost Dark Ground,679,31,honedge,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/679.png,steel ghost,honedge
+805,No Guard,Doublade,9.9,Doublade,Fire Ghost Dark Ground,680,31,doublade,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/680.png,steel ghost,doublade
+806,Stance Change,Aegislash,116.8,Aegislash,Fire Ghost Dark Ground,681,67,aegislash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png,steel ghost,aegislash
+807,Stance Change,Aegislash,116.8,Aegislash,Fire Ghost Dark Ground,681,67,aegislash,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png,steel ghost,aegislash
+808,Healer,Spritzee,1.1,Spritzee,Steel Poison,682,8,spritzee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/682.png,fairy,spritzee
+809,Healer,Aromatisse,34.2,Aromatisse,Steel Poison,683,31,aromatisse,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/683.png,fairy,aromatisse
+810,Sweet Veil,Swirlix,7.7,Swirlix,Steel Poison,684,16,swirlix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/684.png,fairy,swirlix
+811,Sweet Veil,Slurpuff,11,Slurpuff,Steel Poison,685,31,slurpuff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/685.png,fairy,slurpuff
+812,ContrarySuction Cups,Inkay,7.7,Inkay,Fairy Bug,686,16,inkay,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/686.png,dark psychic,inkay
+813,ContrarySuction Cups,Malamar,103.6,Malamar,Fairy Bug,687,59,malamar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/687.png,dark psychic,malamar
+814,SniperTough Claws,Binacle,68.3,Binacle,Electric Fighting Grass Ground,688,20,binacle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/688.png,rock water,binacle
+815,SniperTough Claws,Barbaracle,211.6,Barbaracle,Electric Fighting Grass Ground,689,51,barbaracle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/689.png,rock water,barbaracle
+816,Poison PointPoison Touch,Skrelp,16.1,Skrelp,Psychic Electric Ground,690,20,skrelp,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/690.png,poison water,skrelp
+817,Poison PointPoison Touch,Dragalge,179.7,Dragalge,Psychic Dragon Ice Ground,691,71,dragalge,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/691.png,poison dragon,dragalge
+818,Mega Launcher,Clauncher,18.3,Clauncher,Grass Electric,692,20,clauncher,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/692.png,water,clauncher
+819,Mega Launcher,Clawitzer,77.8,Clawitzer,Grass Electric,693,51,clawitzer,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/693.png,water,clawitzer
+820,Dry SkinSand Veil,Helioptile,13.2,Helioptile,Fighting Ground,694,20,helioptile,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/694.png,electric normal,helioptile
+821,Dry SkinSand Veil,Heliolisk,46.3,Heliolisk,Fighting Ground,695,39,heliolisk,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/695.png,electric normal,heliolisk
+822,Strong Jaw,Tyrunt,57.3,Tyrunt,Steel Ice Dragon Fighting Fairy Ground,696,31,tyrunt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/696.png,rock dragon,tyrunt
+823,Strong Jaw,Tyrantrum,595.2,Tyrantrum,Steel Ice Dragon Fighting Fairy Ground,697,98,tyrantrum,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/697.png,rock dragon,tyrantrum
+824,Refrigerate,Amaura,55.6,Amaura,Steel Fighting Water Rock Grass Ground,698,51,amaura,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/698.png,rock ice,amaura
+825,Refrigerate,Aurorus,496,Aurorus,Steel Fighting Water Rock Grass Ground,699,106,aurorus,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/699.png,rock ice,aurorus
+826,Cute Charm,Sylveon,51.8,Sylveon,Steel Poison,700,39,sylveon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png,fairy,sylveon
+827,LimberUnburden,Hawlucha,47.4,Hawlucha,Electric Psychic Flying Ice Fairy,701,31,hawlucha,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/701.png,fighting flying,hawlucha
+828,Cheek PouchPickup,Dedenne,4.9,Dedenne,Poison Ground,702,8,dedenne,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/702.png,electric fairy,dedenne
+829,Clear Body,Carbink,12.6,Carbink,Steel Water Grass Ground,703,12,carbink,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/703.png,rock fairy,carbink
+830,HydrationSap Sipper,Goomy,6.2,Goomy,Fairy Ice Dragon,704,12,goomy,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/704.png,dragon,goomy
+831,HydrationSap Sipper,Sliggoo,38.6,Sliggoo,Fairy Ice Dragon,705,31,sliggoo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/705.png,dragon,sliggoo
+832,HydrationSap Sipper,Goodra,331.8,Goodra,Fairy Ice Dragon,706,79,goodra,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png,dragon,goodra
+833,Prankster,Klefki,6.6,Klefki,Fire Ground,707,8,klefki,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/707.png,steel fairy,klefki
+834,FriskNatural Cure,Phantump,15.4,Phantump,Ghost Fire Flying Dark Ice,708,16,phantump,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/708.png,ghost grass,phantump
+835,FriskNatural Cure,Trevenant,156.5,Trevenant,Ghost Fire Flying Dark Ice,709,59,trevenant,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/709.png,ghost grass,trevenant
+836,FriskPickup,Pumpkaboo,33.1,Pumpkaboo,Ghost Fire Flying Dark Ice,710,31,pumpkaboo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png,ghost grass,pumpkaboo
+837,FriskPickup,Pumpkaboo,16.5,Pumpkaboo,Ghost Fire Flying Dark Ice,710,20,pumpkaboo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png,ghost grass,pumpkaboo
+838,FriskPickup,Pumpkaboo,7.7,Pumpkaboo,Ghost Fire Flying Dark Ice,710,12,pumpkaboo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png,ghost grass,pumpkaboo
+839,FriskPickup,Pumpkaboo,11,Pumpkaboo,Ghost Fire Flying Dark Ice,710,16,pumpkaboo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png,ghost grass,pumpkaboo
+840,FriskPickup,Gourgeist,86,Gourgeist,Ghost Fire Flying Dark Ice,711,67,gourgeist,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png,ghost grass,gourgeist
+841,FriskPickup,Gourgeist,30.9,Gourgeist,Ghost Fire Flying Dark Ice,711,43,gourgeist,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png,ghost grass,gourgeist
+842,FriskPickup,Gourgeist,20.9,Gourgeist,Ghost Fire Flying Dark Ice,711,28,gourgeist,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png,ghost grass,gourgeist
+843,FriskPickup,Gourgeist,27.6,Gourgeist,Ghost Fire Flying Dark Ice,711,35,gourgeist,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png,ghost grass,gourgeist
+844,Ice BodyOwn Tempo,Bergmite,219.4,Bergmite,Fire Steel Fighting Rock,712,39,bergmite,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/712.png,ice,bergmite
+845,Ice BodyOwn Tempo,Avalugg,1113.3,Avalugg,Fire Steel Fighting Rock,713,79,avalugg,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/713.png,ice,avalugg
+846,FriskInfiltrator,Noibat,17.6,Noibat,Ice Rock Fairy Dragon,714,20,noibat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/714.png,flying dragon,noibat
+847,FriskInfiltrator,Noivern,187.4,Noivern,Fairy Dragon Ice Rock,715,59,noivern,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/715.png,flying dragon,noivern
+848,Fairy Aura,Xerneas,474,Xerneas,Steel Poison,716,118,xerneas,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png,fairy,xerneas
+849,Dark Aura,Yveltal,447.5,Yveltal,Electric Ice Rock Fairy,717,228,yveltal,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png,dark flying,yveltal
+850,Power Construct,Zygarde,1344.8,Zygarde,Fairy Ice Dragon,718,177,zygarde,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png,dragon ground,zygarde
+851,Aura BreakPower Construct,Zygarde,73.9,Zygarde,Fairy Ice Dragon,718,47,zygarde,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png,dragon ground,zygarde
+852,Aura Break,Zygarde,672.4,Zygarde,Fairy Ice Dragon,718,197,zygarde,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png,dragon ground,zygarde
+853,Magic Bounce,Diancie,61.3,Diancie,Steel Water Grass Ground,719,43,diancie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png,rock fairy,diancie
+854,Clear Body,Diancie,19.4,Diancie,Steel Water Grass Ground,719,28,diancie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png,rock fairy,diancie
+855,Magician,Hoopa,1080.3,Hoopa,Fairy Bug,720,256,hoopa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png,psychic dark,hoopa
+856,Magician,Hoopa,19.8,Hoopa,Ghost Dark,720,20,hoopa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png,psychic ghost,hoopa
+857,Water Absorb,Volcanion,429.9,Volcanion,Ground Electric Rock,721,67,volcanion,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png,fire water,volcanion
+858,Overgrow,Rowlet,3.3,Rowlet,Fire Flying Ice Poison Rock,722,12,rowlet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/722.png,grass flying,rowlet
+859,Overgrow,Dartrix,35.3,Dartrix,Fire Flying Ice Poison Rock,723,28,dartrix,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/723.png,grass flying,dartrix
+860,Overgrow,Decidueye,80.7,Decidueye,Ghost Fire Flying Dark Ice,724,63,decidueye,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png,grass ghost,decidueye
+861,Blaze,Litten,9.5,Litten,Water Ground Rock,725,16,litten,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/725.png,fire,litten
+862,Blaze,Torracat,55.1,Torracat,Water Ground Rock,726,28,torracat,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/726.png,fire,torracat
+863,Blaze,Incineroar,183,Incineroar,Water Ground Fighting Rock,727,71,incineroar,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/727.png,fire dark,incineroar
+864,Torrent,Popplio,16.5,Popplio,Grass Electric,728,16,popplio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png,water,popplio
+865,Torrent,Brionne,38.6,Brionne,Grass Electric,729,24,brionne,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/729.png,water,brionne
+866,Torrent,Primarina,97,Primarina,Grass Electric Poison,730,71,primarina,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/730.png,water fairy,primarina
+867,Keen EyeSkill Link,Pikipek,2.6,Pikipek,Electric Ice Rock,731,12,pikipek,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/731.png,normal flying,pikipek
+868,Keen EyeSkill Link,Trumbeak,32.6,Trumbeak,Electric Ice Rock,732,24,trumbeak,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/732.png,normal flying,trumbeak
+869,Keen EyeSkill Link,Toucannon,57.3,Toucannon,Electric Ice Rock,733,43,toucannon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/733.png,normal flying,toucannon
+870,StakeoutStrong Jaw,Yungoos,13.2,Yungoos,Fighting,734,16,yungoos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/734.png,normal,yungoos
+871,StakeoutStrong Jaw,Gumshoos,31.3,Gumshoos,Fighting,735,28,gumshoos,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/735.png,normal,gumshoos
+872,Swarm,Grubbin,9.7,Grubbin,Fire Flying Rock,736,16,grubbin,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/736.png,bug,grubbin
+873,Battery,Charjabug,23.1,Charjabug,Fire Rock,737,20,charjabug,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/737.png,bug electric,charjabug
+874,Levitate,Vikavolt,99.2,Vikavolt,Fire Rock,738,59,vikavolt,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/738.png,bug electric,vikavolt
+875,Hyper CutterIron Fist,Crabrawler,15.4,Crabrawler,Psychic Flying Fairy,739,24,crabrawler,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/739.png,fighting,crabrawler
+876,Hyper CutterIron Fist,Crabominable,396.8,Crabominable,Steel Fire Psychic Flying Fighting Fairy,740,67,crabominable,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/740.png,fighting ice,crabominable
+877,Dancer,Oricorio,7.5,Oricorio,Ghost Dark Electric Ice Rock,741,24,oricorio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png,ghost flying,oricorio
+878,Dancer,Oricorio,7.5,Oricorio,Ghost Dark Electric Ice Rock,741,24,oricorio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png,psychic flying,oricorio
+879,Dancer,Oricorio,7.5,Oricorio,Ice Rock,741,24,oricorio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png,electric flying,oricorio
+880,Dancer,Oricorio,7.5,Oricorio,Water Electric Rock,741,24,oricorio,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png,fire flying,oricorio
+881,Honey GatherShield Dust,Cutiefly,0.4,Cutiefly,Fire Steel Flying Poison Rock,742,4,cutiefly,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/742.png,bug fairy,cutiefly
+882,Honey GatherShield Dust,Ribombee,1.1,Ribombee,Fire Steel Flying Poison Rock,743,8,ribombee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/743.png,bug fairy,ribombee
+883,Keen EyeVital Spirit,Rockruff,20.3,Rockruff,Water Steel Grass Fighting Ground,744,20,rockruff,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/744.png,rock,rockruff
+884,Keen EyeVital Spirit,Lycanroc,55.1,Lycanroc,Water Steel Grass Fighting Ground,745,43,lycanroc,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/745.png,rock,lycanroc
+885,Keen EyeSand Rush,Lycanroc,55.1,Lycanroc,Water Steel Grass Fighting Ground,745,31,lycanroc,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/745.png,rock,lycanroc
+886,Schooling,Wishiwashi,173.3,Wishiwashi,Grass Electric,746,323,wishiwashi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png,water,wishiwashi
+887,Schooling,Wishiwashi,0.7,Wishiwashi,Grass Electric,746,8,wishiwashi,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png,water,wishiwashi
+888,LimberMerciless,Mareanie,17.6,Mareanie,Psychic Electric Ground,747,16,mareanie,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/747.png,poison water,mareanie
+889,LimberMerciless,Toxapex,32,Toxapex,Psychic Electric Ground,748,28,toxapex,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/748.png,poison water,toxapex
+890,Own TempoStamina,Mudbray,242.5,Mudbray,Water Grass Ice,749,39,mudbray,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/749.png,ground,mudbray
+891,Own TempoStamina,Mudsdale,2028.3,Mudsdale,Water Grass Ice,750,98,mudsdale,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/750.png,ground,mudsdale
+892,Water Bubble,Dewpider,8.8,Dewpider,Flying Electric Rock,751,12,dewpider,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/751.png,water bug,dewpider
+893,Water Bubble,Araquanid,180.8,Araquanid,Flying Electric Rock,752,71,araquanid,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/752.png,water bug,araquanid
+894,Leaf Guard,Fomantis,3.3,Fomantis,Fire Flying Ice Poison Bug,753,12,fomantis,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/753.png,grass,fomantis
+895,Leaf Guard,Lurantis,40.8,Lurantis,Fire Flying Ice Poison Bug,754,35,lurantis,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/754.png,grass,lurantis
+896,Effect SporeIlluminate,Morelull,3.3,Morelull,Steel Fire Flying Ice Poison,755,8,morelull,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/755.png,grass fairy,morelull
+897,Effect SporeIlluminate,Shiinotic,25.4,Shiinotic,Steel Fire Flying Ice Poison,756,39,shiinotic,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/756.png,grass fairy,shiinotic
+898,Corrosion,Salandit,10.6,Salandit,Water Psychic Ground Rock,757,24,salandit,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/757.png,poison fire,salandit
+899,Corrosion,Salazzle,48.9,Salazzle,Water Psychic Ground Rock,758,47,salazzle,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/758.png,poison fire,salazzle
+900,FluffyKlutz,Stufful,15,Stufful,Psychic Flying Fairy Fighting,759,20,stufful,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/759.png,normal fighting,stufful
+901,FluffyKlutz,Bewear,297.6,Bewear,Psychic Flying Fairy Fighting,760,83,bewear,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/760.png,normal fighting,bewear
+902,Leaf GuardOblivious,Bounsweet,7.1,Bounsweet,Fire Flying Ice Poison Bug,761,12,bounsweet,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/761.png,grass,bounsweet
+903,Leaf GuardOblivious,Steenee,18.1,Steenee,Fire Flying Ice Poison Bug,762,28,steenee,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/762.png,grass,steenee
+904,Leaf GuardQueenly Majesty,Tsareena,47.2,Tsareena,Fire Flying Ice Poison Bug,763,47,tsareena,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/763.png,grass,tsareena
+905,Flower VeilTriage,Comfey,0.7,Comfey,Steel Poison,764,4,comfey,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/764.png,fairy,comfey
+906,Inner FocusTelepathy,Oranguru,167.6,Oranguru,Dark Bug,765,59,oranguru,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/765.png,normal psychic,oranguru
+907,Receiver,Passimian,182.5,Passimian,Psychic Flying Fairy,766,79,passimian,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/766.png,fighting,passimian
+908,Wimp Out,Wimpod,26.5,Wimpod,Flying Electric Rock,767,20,wimpod,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/767.png,bug water,wimpod
+909,Emergency Exit,Golisopod,238.1,Golisopod,Flying Electric Rock,768,79,golisopod,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/768.png,bug water,golisopod
+910,Water Compaction,Sandygast,154.3,Sandygast,Ghost Dark Grass Water Ice,769,20,sandygast,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/769.png,ghost ground,sandygast
+911,Water Compaction,Palossand,551.2,Palossand,Ghost Dark Grass Water Ice,770,51,palossand,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/770.png,ghost ground,palossand
+912,Innards Out,Pyukumuku,2.6,Pyukumuku,Grass Electric,771,12,pyukumuku,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/771.png,water,pyukumuku
+913,Battle Armor,Type: Null,265.7,Type: Null,Fighting,772,75,type-null,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png,normal,type-null
+914,RKS System,Silvally,221.6,Silvally,Fighting,773,91,silvally,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/773.png,normal,silvally
+915,Shields Down,Minior,0.7,Minior,Steel Water Electric Ice Rock,774,12,minior,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/774.png,rock flying,minior
+916,Shields Down,Minior,88.2,Minior,Steel Water Electric Ice Rock,774,12,minior,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/774.png,rock flying,minior
+917,Comatose,Komala,43.9,Komala,Fighting,775,16,komala,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/775.png,normal,komala
+918,Shell Armor,Turtonator,467.4,Turtonator,Ground Rock Dragon,776,79,turtonator,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/776.png,fire dragon,turtonator
+919,Iron BarbsLightning Rod,Togedemaru,7.3,Togedemaru,Fire Fighting Ground,777,12,togedemaru,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/777.png,electric steel,togedemaru
+920,Disguise,Mimikyu,1.5,Mimikyu,Ghost Steel,778,8,mimikyu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/778.png,ghost fairy,mimikyu
+921,DazzlingStrong Jaw,Bruxish,41.9,Bruxish,Ghost Dark Grass Electric Bug,779,35,bruxish,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/779.png,water psychic,bruxish
+922,BerserkSap Sipper,Drampa,407.9,Drampa,Fairy Fighting Ice Dragon,780,118,drampa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/780.png,normal dragon,drampa
+923,Steelworker,Dhelmise,463,Dhelmise,Ghost Fire Flying Dark Ice,781,154,dhelmise,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/781.png,ghost grass,dhelmise
+924,BulletproofSoundproof,Jangmo-o,65.5,Jangmo-o,Fairy Ice Dragon,782,24,jangmo-o,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/782.png,dragon,jangmo-o
+925,BulletproofSoundproof,Hakamo-o,103.6,Hakamo-o,Fairy Flying Psychic Ice Dragon,783,47,hakamo-o,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/783.png,dragon fighting,hakamo-o
+926,BulletproofSoundproof,Kommo-o,172.4,Kommo-o,Fairy Flying Psychic Ice Dragon,784,63,kommo-o,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/784.png,dragon fighting,kommo-o
+927,Electric Surge,Tapu Koko,45.2,Tapu Koko,Poison Ground,785,71,tapu-koko,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/785.png,electric fairy,tapu-koko
+928,Psychic Surge,Tapu Lele,41,Tapu Lele,Ghost Steel Poison,786,47,tapu-lele,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/786.png,psychic fairy,tapu-lele
+929,Grassy Surge,Tapu Bulu,100.3,Tapu Bulu,Steel Fire Flying Ice Poison,787,75,tapu-bulu,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/787.png,grass fairy,tapu-bulu
+930,Misty Surge,Tapu Fini,46.7,Tapu Fini,Grass Electric Poison,788,51,tapu-fini,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/788.png,water fairy,tapu-fini
+931,Unaware,Cosmog,0.2,Cosmog,Ghost Dark Bug,789,8,cosmog,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/789.png,psychic,cosmog
+932,Sturdy,Cosmoem,2204.4,Cosmoem,Ghost Dark Bug,790,4,cosmoem,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/790.png,psychic,cosmoem
+933,Full Metal Body,Solgaleo,507.1,Solgaleo,Ghost Fire Dark Ground,791,134,solgaleo,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/791.png,psychic steel,solgaleo
+934,Shadow Shield,Lunala,264.6,Lunala,Ghost Dark,792,157,lunala,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/792.png,psychic ghost,lunala
+935,Beast Boost,Nihilego,122.4,Nihilego,Steel Water Psychic Ground,793,47,nihilego,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/793.png,rock poison,nihilego
+936,Beast Boost,Buzzwole,735.5,Buzzwole,Fire Psychic Flying Fairy,794,94,buzzwole,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/794.png,bug fighting,buzzwole
+937,Beast Boost,Pheromosa,55.1,Pheromosa,Fire Psychic Flying Fairy,795,71,pheromosa,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/795.png,bug fighting,pheromosa
+938,Beast Boost,Xurkitree,220.5,Xurkitree,Ground,796,150,xurkitree,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/796.png,electric,xurkitree
+939,Beast Boost,Celesteela,2204.4,Celesteela,Fire Electric,797,362,celesteela,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/797.png,steel flying,celesteela
+940,Beast Boost,Kartana,0.2,Kartana,Fire Fighting,798,12,kartana,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/798.png,grass steel,kartana
+941,Beast Boost,Guzzlord,1957.7,Guzzlord,Fairy Fighting Bug Ice Dragon,799,217,guzzlord,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/799.png,dark dragon,guzzlord
+942,Neuroforce,Necrozma,507.1,Necrozma,Ghost Ice Dragon Dark Fairy Bug,800,295,necrozma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png,psychic dragon,necrozma
+943,Prism Armor,Necrozma,771.6,Necrozma,Ghost Dark,800,165,necrozma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png,psychic ghost,necrozma
+944,Prism Armor,Necrozma,1014.1,Necrozma,Ghost Fire Dark Ground,800,150,necrozma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png,psychic steel,necrozma
+945,Prism Armor,Necrozma,507.1,Necrozma,Ghost Dark Bug,800,94,necrozma,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png,psychic,necrozma
+946,Soul-Heart,Magearna,177.5,Magearna,Fire Ground,801,39,magearna,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png,steel fairy,magearna
+947,Technician,Marshadow,48.9,Marshadow,Ghost Psychic Flying Fairy,802,28,marshadow,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png,fighting ghost,marshadow
+948,Beast Boost,Poipole,4,Poipole,Psychic Ground,803,24,poipole,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/803.png,poison,poipole
+949,Beast Boost,Naganadel,330.7,Naganadel,Psychic Ground Ice Dragon,804,142,naganadel,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/804.png,poison dragon,naganadel
+950,Beast Boost,Stakataka,1807.8,Stakataka,Water Fighting Ground,805,217,stakataka,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/805.png,rock steel,stakataka
+951,Beast Boost,Blacephalon,28.7,Blacephalon,Water Ghost Ground Dark Rock,806,71,blacephalon,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/806.png,fire ghost,blacephalon
+952,Volt Absorb,Zeraora,98.1,Zeraora,Ground,807,59,zeraora,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png,electric,zeraora
+953,,Meltan,17.6,Meltan,Fire Fighting Ground,808,8,meltan,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png,steel,meltan
+954,,Melmetal,1763.7,Melmetal,Fire Fighting Ground,809,98,melmetal,TRUE,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png,steel,melmetal
