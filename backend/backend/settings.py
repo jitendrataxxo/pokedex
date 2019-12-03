@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'pokedex',
         'USER': 'postgres',
-        'PASSWORD': 'asdqwe123',
+        'PASSWORD': 'Jitendra@7394',
         'HOST': 'localhost',
         'PORT': 5432,
     }

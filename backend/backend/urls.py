@@ -19,12 +19,12 @@ from django.views.decorators.csrf import csrf_exempt
 
 from graphene_django.views import GraphQLView
 from backend import schema
-from pokedex.views import add_category
-# from adult.views import home
+from pokedex.views import add_category, delete_category
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('graphql/', csrf_exempt(GraphQLView.as_view(
         graphiql=True, schema=schema.schema))),
-    path('add_category/', add_category),
+    path('add_category/', csrf_exempt(add_category)),
+    path('delete_category/', csrf_exempt(delete_category)),
 ]

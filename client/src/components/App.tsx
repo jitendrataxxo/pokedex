@@ -1,21 +1,11 @@
 import * as React from 'react';
 import axios from 'axios';
-import { Card, Button } from 'antd';
+import { Card, Button, message, Spin } from 'antd';
 import '../assets/scss/App.scss';
 import { PokemonList } from './PokemonList';
-import { query, Category, CATEGORY_DATA } from './constants';
+import { query, Category, CATEGORY_DATA, TabList, CATEGORY_QUERY } from './constants';
 import { AddCategory } from './AddCategory';
-
-const tabList = [
-  {
-    key: 'tab1',
-    tab: 'All',
-  },
-  {
-    key: 'tab2',
-    tab: 'tab2',
-  },
-];
+import { CategoryContent } from './CategoryContent';
 
 
 export default class App extends React.Component<Props, State> {
@@ -23,16 +13,25 @@ export default class App extends React.Component<Props, State> {
   constructor(props) {
     super(props);
     this.state = {
-      loading: false,
+      loading: true,
       key: 'tab1',
-      selectedRowKeys: [],
-      categary: CATEGORY_DATA,
+      category: CATEGORY_DATA,
       data: [],
+      filteredPokemons: [],
       error: null,
       variables: {
         name: '',
       },
       visible: false,
+      selectedPokemons: [],
+      tabList: [
+        {key: 'tab1',
+        tab: 'All'},
+      ],
+      categories: [],
+      contentList: {
+
+      }
     };
   }
 
@@ -40,29 +39,10 @@ export default class App extends React.Component<Props, State> {
     this.getData(
       {}
     );
-  }
 
-  onSelect = (value: string) => {
-    const nextState = { ...this.state };
-    nextState.categary.value = value;
-    this.setState(nextState);
-  }
-
-  onChange = e => {
-    const nextState = { ...this.state };
-    nextState.categary.value = e.target.value;
-    this.setState(nextState);
-  }
-
-  onSwitch = (value: boolean) => {
-    const nextState = { ...this.state };
-    nextState.categary.isNewCAtegory = value;
-    this.setState(nextState);
-  }
-
-
-  onTabChange = (key, type) => {
-    this.setState({ [type]: key });
+    this.getCategories(
+      {}
+    );
   }
 
   getData = async (variables) => {
@@ -72,28 +52,71 @@ export default class App extends React.Component<Props, State> {
         variables
       });
       this.setState(() => ({
-        loading: true,
+        loading: false,
         data: response.data.data.allPokemons.edges
-      }));
+      }), () => this.setState({contentList: {tab1: <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} />}}));
     } catch (error) {
       this.setState(() => ({ error }));
     }
   }
 
-  onSelectChange = selectedRowKeys => {
-    console.log('Selected Row', selectedRowKeys);
-    this.setState({ selectedRowKeys });
+  getCategories = async (variables) => {
+    try {
+      const response = await axios.post('http://127.0.0.1:8000/graphql/', {
+        query: CATEGORY_QUERY,
+        variables
+      });
+      this.setState(() => ({
+        categories: response.data.data.allCategories.edges
+      }), () => this.setTabs(this.state.categories)
+      );
+    } catch (error) {
+      this.setState(() => ({ error }));
+    }
   }
 
-  rowSelection = (v) => ({
-    selectedRowKeys: this.state.selectedRowKeys,
-    onChange: v => this.onSelectChange(v),
-  })
+  setTabs = (categories: Category[]) => {
 
-  contentList = () => ({
-    tab1: <PokemonList data={this.state.data} rowSelection={v => this.rowSelection(v)} />,
-    tab2: <PokemonList data={this.state.data} rowSelection={this.rowSelection} />,
-  })
+    let tabList = [...this.state.tabList]
+    let contentList = {'tab1': <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} />}
+    categories.forEach(category => {
+      tabList.push({key: category.node.id, tab: category.node.name});
+      contentList[category.node.id] = <CategoryContent categoryId={category.node.id}/>;
+    })
+    this.setState({tabList, contentList})
+  }
+
+  onTabChange = (key) => {
+    this.setState({key});
+  }
+
+  getSelectedPokemons = (selectedPokemons) => {
+    this.setState({selectedPokemons})
+  }
+
+  getFilteredPokemons = (filteredPokemons) => {
+    this.setState({filteredPokemons: filteredPokemons})
+  }
+
+
+  onSelect = (value: string) => {
+    // On category select
+    const nextState = { ...this.state };
+    nextState.category.value = value;
+    this.setState(nextState);
+  }
+
+  onChange = e => {
+    const nextState = { ...this.state };
+    nextState.category.value = e.target.value;
+    this.setState(nextState);
+  }
+
+  onSwitch = (value: boolean) => {
+    const nextState = { ...this.state };
+    nextState.category.isNewCAtegory = value;
+    this.setState(nextState);
+  }
 
   openCategoryForm = () => {
     this.setState({
@@ -102,9 +125,23 @@ export default class App extends React.Component<Props, State> {
   }
 
   handleOk = () => {
-    this.setState({
-      visible: false,
-    });
+    const {category, selectedPokemons} = this.state;
+    axios({
+      method: 'post',
+      url: 'http://127.0.0.1:8000/add_category/',
+      data: {
+        category: category,
+        selectedPokemons: selectedPokemons
+      },
+      
+      xsrfCookieName: 'csrftoken',
+      xsrfHeaderName: 'X-CSRFToken',
+      headers: {'X-Requested-With': 'XMLHttpRequest',
+                'Content-Type': 'json'},
+  }).then(function (response) { 
+      const {category, key} = response.data
+      message.success(`${category}  successfully Created `)
+  });
   }
 
   handleCancel = () => {
@@ -114,16 +151,19 @@ export default class App extends React.Component<Props, State> {
   }
 
   render() {
+    if (this.state.loading) {
+      return <div style={{textAlign: 'center', margin: '200px'}}>
+        <Spin size='large'/>
+      </div>;
+    }
 
-    console.log('render', this.state.selectedRowKeys);
-
-    const { visible, categary } = this.state;
+    const { visible, category, key, data, tabList } = this.state;
 
     return (
-      <Card title='Pokedex' tabList={tabList} activeTabKey={this.state.key} extra={<Button onClick={this.openCategoryForm}>Add New Catigory</Button>} onTabChange={key => {
-        this.onTabChange(key, 'key');
+      <Card title='Pokedex' tabList={tabList} activeTabKey={key} extra={key === 'tab1' && <Button type='primary' onClick={this.openCategoryForm}>Add Category</Button>} onTabChange={key => {
+        this.onTabChange(key);
       }}>
-        {this.state.data && this.contentList()[this.state.key]}
+        {data && this.state.contentList[key]}
         <AddCategory
           visible={visible}
           handleOk={this.handleOk}
@@ -131,7 +171,7 @@ export default class App extends React.Component<Props, State> {
           onChange={this.onChange}
           onSelect={this.onSelect}
           onSwitch={this.onSwitch}
-          category={categary}
+          category={category}
         />
       </Card>
     );
@@ -140,15 +180,19 @@ export default class App extends React.Component<Props, State> {
 
 interface State {
   data: [];
+  selectedPokemons: [];
+  filteredPokemons: [];
   loading: boolean;
   error: any;
-  selectedRowKeys: [];
   key: string;
   variables: {
     name: string;
   };
   visible: boolean;
-  categary: Category;
+  category: Category;
+  tabList: TabList[];
+  categories: Category[];
+  contentList: {}
 }
 
 interface Props {

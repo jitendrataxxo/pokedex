@@ -1,22 +1,30 @@
-1. install pipenv pip install --user pipenv. https://docs.pipenv.org
-2. install dependencies pipenv install.
-3. activate pipenv shell pipenv shell or run python with pipenv run python ....
+### prerequisites
+node
+python
 
-4. exit to close shel
+1. install pipenv => pip install --user pipenv. https://docs.pipenv.org
+2. install dependencies => pipenv install.
+3. activate pipenv shell =>  pipenv shell or run python with pipenv run python ....
+4. exit => to close shell
 
-for running server for this project
+### For running server for this project
 
-frontend //
+## backend
 
-python start.py -n install // for installing frontend dependencies
+pipenv install => for install backand dependencies // some peoblem is here with pipenv latest version, so install packages manually (pipenv install package_name) acc. to pipFile.
 
-python start.py -n start
+python start.py -p runserver => start backend server
 
-backend
+## frontend
 
-python start.py -p runserver
+python start.py -n install => for installing frontend dependencies
+
+python start.py -n start => start frontend server
+
+## Extra Help!
 
 // Run below query to upload data in postgrssql database with the help of pgadmin and change dir path according your folder path
+
 // during uploading may be face some problem like //permisson denid for reading csv file so change the permisstion of the folder which containing
 // data file, for fixing this issue please go through this link.
 http://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/
