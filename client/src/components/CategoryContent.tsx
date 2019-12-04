@@ -3,6 +3,69 @@ import { Row, Col, Checkbox, Collapse, Icon, Button, Table, message, Alert } fro
 import { columns } from './PokemonList';
 import axios from 'axios';
 import { CATEGORY } from './constants';
+import { DndProvider, DragSource, DropTarget } from 'react-dnd';
+import HTML5Backend from 'react-dnd-html5-backend';
+import update from 'immutability-helper';
+
+let dragingIndex = -1;
+
+class BodyRow extends React.Component {
+	render() {
+		const { isOver, connectDragSource, connectDropTarget, moveRow, ...restProps } = this.props;
+		const style = { ...restProps.style, cursor: 'move' };
+
+		let { className } = restProps;
+		if (isOver) {
+			if (restProps.index > dragingIndex) {
+				className += ' drop-over-downward';
+			}
+			if (restProps.index < dragingIndex) {
+				className += ' drop-over-upward';
+			}
+		}
+
+		return connectDragSource(connectDropTarget(<tr {...restProps} className={className} style={style} />));
+	}
+}
+
+const rowSource = {
+	beginDrag(props) {
+		dragingIndex = props.index;
+		return {
+			index: props.index,
+		};
+	},
+};
+
+const rowTarget = {
+	drop(props, monitor) {
+		const dragIndex = monitor.getItem().index;
+		const hoverIndex = props.index;
+
+		// Don't replace items with themselves
+		if (dragIndex === hoverIndex) {
+			return;
+		}
+
+		// Time to actually perform the action
+		props.moveRow(dragIndex, hoverIndex);
+
+		// Note: we're mutating the monitor item here!
+		// Generally it's better to avoid mutations,
+		// but it's good here for the sake of performance
+		// to avoid expensive index searches.
+		monitor.getItem().index = hoverIndex;
+	},
+};
+
+const DragableBodyRow = DropTarget('row', rowTarget, (connect, monitor) => ({
+	connectDropTarget: connect.dropTarget(),
+	isOver: monitor.isOver(),
+}))(
+	DragSource('row', rowSource, connect => ({
+		connectDragSource: connect.dragSource(),
+	}))(BodyRow)
+);
 
 export class CategoryContent extends React.Component<Props, State> {
 	constructor(props: Props) {
@@ -12,6 +75,28 @@ export class CategoryContent extends React.Component<Props, State> {
 			error: null,
 		};
 	}
+
+	components = {
+		body: {
+			row: DragableBodyRow,
+		},
+	};
+
+	moveRow = (dragIndex, hoverIndex) => {
+		const { data } = this.state;
+		const dragRow = data[dragIndex];
+
+		this.setState(
+			update(this.state, {
+				data: {
+					$splice: [
+						[dragIndex, 1],
+						[hoverIndex, 0, dragRow],
+					],
+				},
+			})
+		);
+	};
 
 	componentDidMount() {
 		this.getData({ id: this.props.categoryId });
@@ -69,7 +154,18 @@ export class CategoryContent extends React.Component<Props, State> {
 						</Col>
 					</Row>
 				</div>
-				<Table rowKey={record => record.node.id} columns={columns} dataSource={this.state.data} />
+				<DndProvider backend={HTML5Backend}>
+					<Table
+						rowKey={record => record.node.id}
+						onRow={(record, index) => ({
+							index,
+							moveRow: this.moveRow,
+						})}
+						columns={columns}
+						components={this.components}
+						dataSource={this.state.data}
+					/>
+				</DndProvider>
 			</div>
 		);
 	}
