@@ -54,7 +54,7 @@ export default class App extends React.Component<Props, State> {
       this.setState(() => ({
         loading: false,
         data: response.data.data.allPokemons.edges
-      }), () => this.setState({contentList: {tab1: <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} />}}));
+      }));
     } catch (error) {
       this.setState(() => ({ error }));
     }
@@ -68,27 +68,27 @@ export default class App extends React.Component<Props, State> {
       });
       this.setState(() => ({
         categories: response.data.data.allCategories.edges
-      }), () => this.setTabs(this.state.categories)
+      }), async () => await this.setTabs(this.state.categories)
       );
     } catch (error) {
       this.setState(() => ({ error }));
     }
   }
 
-  setTabs = (categories: Category[]) => {
+  setTabs = async (categories: Category[]) => {
 
     let tabList = [...this.state.tabList]
-    let contentList = {'tab1': <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} />}
-    categories.forEach(category => {
+    let contentList = {'tab1': <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} key='tab1'/>}
+    await categories.forEach((category) => {
       tabList.push({key: category.node.id, tab: category.node.name});
-      contentList[category.node.id] = <CategoryContent categoryId={category.node.id}/>;
+      contentList[category.node.id] = <CategoryContent categoryId={category.node.id} key={category.node.id}/>;
     })
     this.setState({tabList, contentList})
   }
 
-  onTabChange = (key) => {
-    this.setState({key});
-  }
+  onTabChange = (key, type) => {
+    this.setState({ [type]: key });
+  };
 
   getSelectedPokemons = (selectedPokemons) => {
     this.setState({selectedPokemons})
@@ -151,19 +151,20 @@ export default class App extends React.Component<Props, State> {
   }
 
   render() {
-    if (this.state.loading) {
+
+    const { visible, category, key, data, tabList, contentList, } = this.state;
+
+    if (this.state.loading && contentList != {}) {
       return <div style={{textAlign: 'center', margin: '200px'}}>
         <Spin size='large'/>
       </div>;
     }
 
-    const { visible, category, key, data, tabList } = this.state;
-
     return (
       <Card title='Pokedex' tabList={tabList} activeTabKey={key} extra={key === 'tab1' && <Button type='primary' onClick={this.openCategoryForm}>Add Category</Button>} onTabChange={key => {
-        this.onTabChange(key);
+        this.onTabChange(key, 'key');
       }}>
-        {data && this.state.contentList[key]}
+        {data && contentList && contentList[key]}
         <AddCategory
           visible={visible}
           handleOk={this.handleOk}

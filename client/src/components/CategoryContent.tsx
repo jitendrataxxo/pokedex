@@ -69,7 +69,7 @@ export class CategoryContent extends React.Component<Props, State> {
 						</Col>
 					</Row>
 				</div>
-				<Table columns={columns} dataSource={this.state.data} />
+				<Table rowKey={record => record.node.id} columns={columns} dataSource={this.state.data} />
 			</div>
 		);
 	}

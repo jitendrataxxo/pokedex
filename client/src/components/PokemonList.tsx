@@ -113,7 +113,7 @@ export class PokemonList extends React.Component<Props, State> {
 						{hasSelected ? `Selected ${selectedRowKeys.length} items` : ''}
 					</span>
 				</div>
-				<Table rowSelection={rowSelection} columns={columns} dataSource={this.props.data} />
+				<Table rowKey={record => record.node.id} rowSelection={rowSelection} columns={columns} dataSource={this.props.data} />
 			</div>
 		);
 	}

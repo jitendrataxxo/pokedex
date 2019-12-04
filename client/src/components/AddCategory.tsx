@@ -50,15 +50,15 @@ export class AddCategory extends React.Component<Props, State> {
         okText={'Submit'}
       >
         <Row>
-          <Col span={4}><h4>Is New Category</h4></Col>
-          <Col span={2}>
+          <Col span={4} key='col1'><h4>Is New Category</h4></Col>
+          <Col span={2} key='col2'>
             <Switch defaultChecked onChange={v => onSwitch(v)} />
           </Col>
         </Row>
         <Divider />
         <p>Add in existing category</p>
         <Select onChange={(value) => onSelect(value)} style={{ width: 500 }} disabled={category.isNewCAtegory}>
-          {data.map((category => <Option value={category.node.id}>{category.node.name}</Option>))}
+          {data.map((category => <Option key={category.node.id} value={category.node.id}>{category.node.name}</Option>))}
         </Select>
         <h3 style={{ textAlign: 'center' }}>OR</h3>
         <Divider />
