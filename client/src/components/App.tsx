@@ -17,7 +17,6 @@ export default class App extends React.Component<Props, State> {
       key: 'tab1',
       category: CATEGORY_DATA,
       data: [],
-      filteredPokemons: [],
       error: null,
       variables: {
         name: '',
@@ -53,7 +52,8 @@ export default class App extends React.Component<Props, State> {
       });
       this.setState(() => ({
         loading: false,
-        data: response.data.data.allPokemons.edges
+        data: response.data.data.allPokemons.edges,
+        contentList: {...this.state.contentList, 'tab1': <PokemonList data={response.data.data.allPokemons.edges} getSelectedPokemons={this.getSelectedPokemons} onSearch={(v, e) => this.onSearch(v ,e)} key='tab1' />}
       }));
     } catch (error) {
       this.setState(() => ({ error }));
@@ -61,6 +61,7 @@ export default class App extends React.Component<Props, State> {
   }
 
   getCategories = async (variables) => {
+  
     try {
       const response = await axios.post('http://127.0.0.1:8000/graphql/', {
         query: CATEGORY_QUERY,
@@ -68,23 +69,26 @@ export default class App extends React.Component<Props, State> {
       });
       this.setState(() => ({
         categories: response.data.data.allCategories.edges
-      }), async () => await this.setTabs(this.state.categories)
+      }), () => this.setTabs(this.state.categories)
       );
     } catch (error) {
       this.setState(() => ({ error }));
     }
   }
 
-  setTabs = async (categories: Category[]) => {
-
+  setTabs = (categories: Category[]) => {
     let tabList = [...this.state.tabList]
-    let contentList = {'tab1': <PokemonList data={this.state.filteredPokemons.length != 0 ? this.state.filteredPokemons : this.state.data} getSelectedPokemons={this.getSelectedPokemons} getFilteredPokemons={this.getFilteredPokemons} key='tab1'/>}
-    await categories.forEach((category) => {
+    let contentList = {...this.state.contentList }
+    categories.forEach((category) => {
       tabList.push({key: category.node.id, tab: category.node.name});
       contentList[category.node.id] = <CategoryContent categoryId={category.node.id} key={category.node.id}/>;
     })
     this.setState({tabList, contentList})
   }
+
+  onSearch = (v, e) => {
+		this.getData({ name: v });
+	};
 
   onTabChange = (key, type) => {
     this.setState({ [type]: key });
@@ -93,11 +97,6 @@ export default class App extends React.Component<Props, State> {
   getSelectedPokemons = (selectedPokemons) => {
     this.setState({selectedPokemons})
   }
-
-  getFilteredPokemons = (filteredPokemons) => {
-    this.setState({filteredPokemons: filteredPokemons})
-  }
-
 
   onSelect = (value: string) => {
     // On category select
@@ -182,7 +181,6 @@ export default class App extends React.Component<Props, State> {
 interface State {
   data: [];
   selectedPokemons: [];
-  filteredPokemons: [];
   loading: boolean;
   error: any;
   key: string;
